@@ -190,3 +190,4 @@
 229 115#Tangling Hair
 230 142#Power of Alchemy
 231 144#Beast Boost
+233 #Neuroforce

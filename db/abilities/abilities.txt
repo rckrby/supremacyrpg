@@ -232,3 +232,29 @@
 231 Beast Boost
 232 Prism Armor
 233 Neuroforce
+234 Libero
+235 Ball Fetch
+236 Cotton Down
+237 Dauntless Shield
+238 Gorilla Tactics
+239 Gulp Missile
+240 Hunger Switch
+241 Ice Face
+242 Ice Scales
+243 Intrepid Sword
+244 Mimicry
+245 Mirror Armor
+246 Neutralizing Gas
+247 Pastel Veil
+248 Perish Body
+249 Power Spot
+250 Propeller Tail
+251 Punk Rock
+252 Ripen
+253 Sand Spit
+254 Screen Cleaner
+255 Stalwart
+256 Steam Engine
+257 Steely Spirit
+258 Wandering Spirit
+

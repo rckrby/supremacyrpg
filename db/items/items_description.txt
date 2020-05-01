@@ -461,3 +461,64 @@
 3032 Enables Solgaleo and Necrozma Dusk Mane to upgrade Sunsteel Strike into the special Z Move: Searing Sunraze Smash
 3033 Enables Lunala and Necrozma Dawn Wings to upgrade Moongeist Beam into the special Z Move: Menacing Moonraze Maelstrom
 3034 Enables Necrozma Dusk Mane or Necrozma Dawn Wings to Ultra Bursts during battle and enables Ultra Necrozma to upgrade Photon Geyser into the special Z Move: Light That Burns The Sky
+3035 An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.
+3036 An item to be held by a Pokémon. Lowers Speed when Trick Room takes effect.
+3037 It is said that a hero used this shield to halt a terrible disaster in ancient times. But it's grown rusty and worn.
+3038 It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn.
+3039 Raises Sp. Atk when a Pokémon uses a sound-based move.
+3040 An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of weather.
+3041 An item that causes Larvitar to appear from the Watchtower Lair in the Wild Area until the end of the day.
+3042 An item that causes Jangmo-o to appear from the Watchtower Lair in the Wild Area until the end of the day.
+3043 When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.
+3044 When a Pokémon smells this mint, all of its stats will grow at an equal rate.
+3045 When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.
+3046 When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly.
+3047 When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.
+3048 When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly.
+3049 When a Pokémon smells this mint, all of its stats will grow at an equal rate.
+3050 When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly.
+3051 When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly.
+3052 When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Def will grow more slowly.
+3053 When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.
+3054 When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly.
+3055 When a Pokémon smells this mint, all of its stats will grow at an equal rate.
+3056 When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.
+3057 When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.
+3058 When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly.
+3059 When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly.
+3060 When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Speed will grow more slowly.
+3061 When a Pokémon smells this mint, all of its stats will grow at an equal rate.
+3062 When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly.
+3063 When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly.
+3064 When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly.
+3065 When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly.
+3066 When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly.
+3067 When a Pokémon smells this mint, all of its stats will grow at an equal rate.
+3068 A berry-shaped sweet. When a Milcery holds this, it spins around happily.
+3069 Raises Speed sharply when a Pokémon misses with a move because of accuracy.
+3070 A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious.
+3071 A clover-shaped sweet. When a Milcery holds this, it spins around happily.
+3072 A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.
+3073 A candy that is packed with energy. When consumed, it will raise the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed.
+3074 One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen.
+3075 A candy that is packed with energy. When consumed, it will grant a single Pokémon a large amount of Exp. Points.
+3076 A candy that is packed with energy. When consumed, it will grant a single Pokémon a moderate amount of Exp. Points.
+3077 A candy that is packed with energy. When consumed, it will grant a single Pokémon a small amount of Exp. Points.
+3078 A candy that is packed with energy. When consumed, it will grant a single Pokémon a very large amount of Exp. Points.
+3079 A candy that is packed with energy. When consumed, it will grant a single Pokémon a very small amount of Exp. Points.
+3080 A flower-shaped sweet. When a Milcery holds this, it spins around happily.
+3081 The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.
+3082 The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
+3083 The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.
+3084 The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
+3085 These boots prevent the effects of traps set on the battlefield.
+3086 A heart-shaped sweet. When a Milcery holds this, it spins around happily.
+3087 A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.
+3088 A star-shaped sweet. When a Milcery holds this, it spins around happily.
+3089 A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.
+3090 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.
+3091 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.
+3092 Throw one into a Pokémon Den to attract a wild Dynamax Pokémon.
+3093 Toss a number of them into a Pokémon Den for the chance to attract a wild Dynamax Pokémon.
+3094 A stone found in the Galar region with a mysterious power. It's said that your dreams come true if you find one.
+3095 A Wishing Star has been affixed to it. It lets out a light that allows Pokémon to Dynamax when at a Power Spot.

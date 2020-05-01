@@ -461,3 +461,64 @@
 3032 Solganium Z
 3033 Lunalium Z
 3034 Ultranecrozium Z
+3035 Eject Pack
+3036 Room Service
+3037 Rusted Shield
+3038 Rusted Sword
+3039 Throat Spray
+3040 Utility Umbrella
+3041 ?And15
+3042 ?And458
+3043 Adamant Mint
+3044 Hardy Mint
+3045 Lonely Mint
+3046 Brave Mint
+3047 Naughty Mint
+3048 Bold Mint
+3049 Docile Mint
+3050 Relaxed Mint
+3051 Impish Mint
+3052 Lax Mint
+3053 Timid Mint
+3054 Hasty Mint
+3055 Serious Mint
+3056 Jolly Mint
+3057 Naive Mint
+3058 Modest Mint
+3059 Mild Mint
+3060 Quiet Mint
+3061 Bashful Mint
+3062 Rash Mint
+3063 Calm Mint
+3064 Gentle Mint
+3065 Sassy Mint
+3066 Careful Mint
+3067 Quirky Mint
+3068 Berry Sweet
+3069 Blunder Policy
+3070 Chipped Pot
+3071 Clover Sweet
+3072 Cracket Pot
+3073 Dynamax Candy
+3074 Fancy Apple
+3075 Exp. Candy L
+3076 Exp. Candy M
+3077 Exp. Candy S
+3078 Exp. Candy XL
+3079 Exp. Candy XS
+3080 Flower Sweet
+3081 Fossilized Bird
+3082 Fossilized Dino
+3083 Fossilized Drake
+3084 Fossilized Fish
+3085 Heavy-Duty Boots
+3086 Love Sweet
+3087 Ribbon Sweet
+3088 Star Sweet
+3089 Strawberry Sweet
+3090 Sweet Apple
+3091 Tart Apple
+3092 Wishing Piece
+3093 Wishing Chip
+3094 Wishing Star
+3095 Dynamax Band
