@@ -1,0 +1,480 @@
+--Grookey
+exp: 3
+base: 62
+catch: 45
+egg: Field/Grass
+--Thwackey
+exp: 3
+base: 147
+catch: 45
+egg: Field/Grass
+--Rillaboom
+exp: 3
+base: 265
+catch: 45
+egg: Field/Grass
+--Scorbunny
+exp: 3
+base: 62
+catch: 45
+egg: Field/Human-Like
+--Raboot
+exp: 3
+base: 147
+catch: 45
+egg: Field/Human-Like
+--Cinderace
+exp: 3
+base: 265
+catch: 45
+egg: Field/Human-Like
+--Sobble
+exp: 3
+base: 62
+catch: 45
+egg: Field/Water 1
+--Drizzile
+exp: 3
+base: 147
+catch: 45
+egg: Field/Water 1
+--Inteleon
+exp: 3
+base: 265
+catch: 45
+egg: Field/Water 1
+--Skwovet
+exp: 0
+base: 55
+catch: 255
+egg: Field
+--Greedent
+exp: 0
+base: 161
+catch: 90
+egg: Field
+--Rookidee
+exp: 3
+base: 49
+catch: 255
+egg: Flying
+--Corvisquire
+exp: 3
+base: 128
+catch: 120
+egg: Flying
+--Corviknight
+exp: 3
+base: 248
+catch: 45
+egg: Flying
+--Blipbug
+exp: 0
+base: 36
+catch: 255
+egg: Bug
+--Dottler
+exp: 0
+base: 117
+catch: 120
+egg: Bug
+--Orbeetle
+exp: 0
+base: 253
+catch: 45
+egg: Bug
+--Nickit
+exp: 1
+base: 49
+catch: 255
+egg: Field
+--Thievul
+exp: 1
+base: 159
+catch: 127
+egg: Field
+--Gossifleur
+exp: 0
+base: 50
+catch: 190
+egg: Grass
+--Eldegoss
+exp: 0
+base: 161
+catch: 75
+egg: Grass
+--Wooloo
+exp: 0
+base: 122
+catch: 255
+egg: Field
+--Dubwool
+exp: 0
+base: 172
+catch: 127
+egg: Field
+--Chewtle
+exp: 0
+base: 57
+catch: 255
+egg: Monster/Water 1
+--Drednaw
+exp: 0
+base: 170
+catch: 75
+egg: Monster/Water 1
+--Yamper
+exp: 1
+base: 54
+catch: 255
+egg: Field
+--Boltund
+exp: 1
+base: 172
+catch: 45
+egg: Field
+--Rolycoly
+exp: 3
+base: 48
+catch: 255
+egg: Mineral
+--Carkol
+exp: 3
+base: 144
+catch: 120
+egg: Mineral
+--Coalossal
+exp: 3
+base: 255
+catch: 45
+egg: Mineral
+--Applin
+exp: 4
+base: 52
+catch: 255
+egg: Grass/Dragon
+--Flapple
+exp: 4
+base: 170
+catch: 45
+egg: Grass/Dragon
+--Appletun
+exp: 4
+base: 170
+catch: 45
+egg: Grass/Dragon
+--Silicobra
+exp: 0
+base: 63
+catch: 255
+egg: Field/Dragon
+--Sandaconda
+exp: 0
+base: 179
+catch: 120
+egg: Field/Dragon
+--Cramorant
+exp: 0
+base: 166
+catch: 45
+egg: Water 1/Flying
+--Arrokuda
+exp: 2
+base: 56
+catch: 255
+egg: Water 2
+--Barraskewda
+exp: 2
+base: 172
+catch: 60
+egg: Water 2
+--Toxel
+exp: 3
+base: 48
+catch: 75
+egg: Undiscovered
+--Toxtricity
+exp: 3
+base: 176
+catch: 45
+egg: Human-Like
+--Sizzlipede
+exp: 0
+base: 61
+catch: 190
+egg: Bug
+--Centiskorch
+exp: 0
+base: 184
+catch: 75
+egg: Bug
+--Clobbopus
+exp: 3
+base: 62
+catch: 180
+egg: Water 1/Human-Like
+--Grapploct
+exp: 3
+base: 168
+catch: 45
+egg: Water 1/Human-Like
+--Sinistea
+exp: 0
+base: 62
+catch: 120
+egg: Mineral/Amorphous
+--Polteageist
+exp: 0
+base: 178
+catch: 60
+egg: Mineral/Amorphous
+--Hatenna
+exp: 2
+base: 53
+catch: 235
+egg: Fairy
+--Hattrem
+exp: 2
+base: 130
+catch: 120
+egg: Fairy
+--Hatterene
+exp: 2
+base: 255
+catch: 45
+egg: Fairy
+--Impidimp
+exp: 0
+base: 53
+catch: 255
+egg: Fairy/Human-Like
+--Morgrem
+exp: 0
+base: 130
+catch: 120
+egg: Fairy/Human-Like
+--Grimmsnarl
+exp: 0
+base: 255
+catch: 45
+egg: Fairy/Human-Like
+--Galarian Zigzagoon
+exp: 0
+base: 56
+catch: 255
+egg: Field
+--Galarian Linoone
+exp: 0
+base: 147
+catch: 90
+egg: Field
+--Obstagoon
+exp: 0
+base: 260
+catch: 45
+egg: Field
+--Galarian Meowth
+exp: 0
+base: 58
+catch: 255
+egg: Field
+--Perrserker
+exp: 0
+base: 154
+catch: 90
+egg: Field
+--Galarian Corsola
+exp: 1
+base: 144
+catch: 60
+egg: Water 1/Water 3
+--Cursola
+exp: 1
+base: 179
+catch: 30
+egg: Water 1/Water 3
+--Galarian Farfetch'd
+exp: 0
+base: 132
+catch: 45
+egg: Flying/Field
+--Sirfetch'd
+exp: 0
+base: 177
+catch: 45
+egg: Flying/Field
+--Mime Jr.
+exp: 0
+base: 62
+catch: 145
+egg: Undiscovered
+--Galarian Mr. Mime
+exp: 0
+base: 161
+catch: 45
+egg: Human-Like
+--Mr. Rime
+exp: 0
+base: 182
+catch: 45
+egg: Human-Like
+--Galarian Yamask
+exp: 0
+base: 61
+catch: 190
+egg: Mineral/Amorphous
+--Runerigus
+exp: 0
+base: 169
+catch: 90
+egg: Mineral/Amorphous
+--Milcery
+exp: 0
+base: 54
+catch: 200
+egg: Fairy/Amorphous
+--Alcremie
+exp: 0
+base: 173
+catch: 100
+egg: Fairy/Amorphous
+--Falinks
+exp: 0
+base: 165
+catch: 45
+egg: Fairy/Mineral
+--Pincurchin
+exp: 0
+base: 152
+catch: 75
+egg: Water 1/Amorphous
+--Snom
+exp: 0
+base: 37
+catch: 190
+egg: Bug
+--Frosmoth
+exp: 0
+base: 168
+catch: 75
+egg: Bug
+--Stonjourner
+exp: 2
+base: 165
+catch: 60
+egg: Mineral
+--Eiscue
+exp: 2
+base: 165
+catch: 60
+egg: Water 1/Field
+--Indeedee
+exp: 1
+base: 166
+catch: 30
+egg: Fairy
+--Morpeko
+exp: 0
+base: 153
+catch: 180
+egg: Fiedl/Fairy
+--Cufant
+exp: 0
+base: 66
+catch: 190
+egg: Fiedl/Mineral
+--Copperajah
+exp: 0
+base: 175
+catch: 90
+egg: Fiedl/Mineral
+--Dracozolt
+exp: 2
+base: 177
+catch: 45
+egg: Undiscovered
+--Arctozolt
+exp: 2
+base: 177
+catch: 45
+egg: Undiscovered
+--Dracovish
+exp: 2
+base: 177
+catch: 45
+egg: Undiscovered
+--Arctovish
+exp: 2
+base: 177
+catch: 45
+egg: Undiscovered
+--Duraludon
+exp: 0
+base: 187
+catch: 45
+egg: Mineral/Dragon
+--Dreepy
+exp: 2
+base: 54
+catch: 45
+egg: Amorphous/Dragon
+--Drakloak
+exp: 2
+base: 144
+catch: 45
+egg: Amorphous/Dragon
+--Dragapult
+exp: 2
+base: 300
+catch: 45
+egg: Amorphous/Dragon
+--Zacian
+exp: 2
+base: 335
+catch: 10
+egg: Undiscovered
+--Zamazenta
+exp: 2
+base: 335
+catch: 10
+egg: Undiscovered
+--Eternatus
+exp: 2
+base: 345
+catch: 255
+egg: Undiscovered
+--Galarian Ponyta
+exp: 0
+base: 82
+catch: 190
+egg: Field
+--Galarian Rapidash
+exp: 0
+base: 175
+catch: 60
+egg: Field
+--Galarian Slowpoke
+exp: 0
+base: 63
+catch: 190
+egg: Monster/Water 1
+--Galarian Weezing
+exp: 0
+base: 172
+catch: 60
+egg: Amorphous
+--Galarian Darumaka
+exp: 3
+base: 63
+catch: 120
+egg: Field
+--Galarian Darmanitan
+exp: 3
+base: 168
+catch: 60
+egg: Field
+--Galarian Stunfisk
+exp: 0
+base: 165
+catch: 75
+egg: Water 1/Amorphous
