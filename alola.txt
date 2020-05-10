@@ -1,0 +1,657 @@
+--Alolan Rattata
+exp: 0
+base: 57
+catch: 255
+egg: Field
+—	Tackle	Tackle - Normal-type	Tackle: Physical Move	40	100	35	--
+A physical attack in which the user charges and slams into the target with its whole body.
+—	Tail Whip	Tail Whip - Normal-type	Tail Whip: Other Move	--	100	30	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+4	Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--
+The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+7	Focus Energy	Focus Energy - Normal-type	Focus Energy: Other Move	--	--	30	--
+The user takes a deep breath and focuses so that critical hits land more easily.
+10	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+13	Pursuit	Pursuit - Dark-type	Pursuit: Physical Move	40	100	20	--
+The power of this attack move is doubled if it's used on a target that's switching out of battle.
+16	Hyper Fang	Hyper Fang - Normal-type	Hyper Fang: Physical Move	80	90	15	10
+The user bites hard on the target with its sharp front fangs. This may also make the target flinch.
+19	Assurance	Assurance - Dark-type	Assurance: Physical Move	60	100	10	--
+If the target has already taken some damage in the same turn, this attack's power is doubled.
+22	Crunch	Crunch - Dark-type	Crunch: Physical Move	80	100	15	20
+The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+25	Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--
+This move enables the user to attack first. This move fails if the target is not readying an attack.
+28	Super Fang	Super Fang - Normal-type	Super Fang: Physical Move	??	90	10	--
+The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.
+31	Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--
+A reckless, life-risking tackle. This also damages the user quite a lot.
+34	Endeavor
+This attack move cuts down the target's HP to equal the user's HP.
+
+--Alolan Raticate
+exp: 0
+base: 116
+catch: 127
+egg: Field
+—	Swords Dance	Swords Dance - Normal-type	Swords Dance: Other Move	--	--	20	--
+A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.
+—	Tackle	Tackle - Normal-type	Tackle: Physical Move	40	100	35	--
+A physical attack in which the user charges and slams into the target with its whole body.
+—	Tail Whip	Tail Whip - Normal-type	Tail Whip: Other Move	--	100	30	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+—	Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--
+The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+—	Focus Energy	Focus Energy - Normal-type	Focus Energy: Other Move	--	--	30	--
+The user takes a deep breath and focuses so that critical hits land more easily.
+4	Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--
+The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+7	Focus Energy	Focus Energy - Normal-type	Focus Energy: Other Move	--	--	30	--
+The user takes a deep breath and focuses so that critical hits land more easily.
+10	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+13	Pursuit	Pursuit - Dark-type	Pursuit: Physical Move	40	100	20	--
+The power of this attack move is doubled if it's used on a target that's switching out of battle.
+16	Hyper Fang	Hyper Fang - Normal-type	Hyper Fang: Physical Move	80	90	15	10
+The user bites hard on the target with its sharp front fangs. This may also make the target flinch.
+19	Assurance	Assurance - Dark-type	Assurance: Physical Move	60	100	10	--
+If the target has already taken some damage in the same turn, this attack's power is doubled.
+24	Crunch	Crunch - Dark-type	Crunch: Physical Move	80	100	15	20
+The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+29	Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--
+This move enables the user to attack first. This move fails if the target is not readying an attack.
+34	Super Fang	Super Fang - Normal-type	Super Fang: Physical Move	??	90	10	--
+The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.
+39	Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--
+A reckless, life-risking tackle. This also damages the user quite a lot.
+44	Endeavor	Endeavor - Normal-type	Endeavor: Physical Move	??	100	5	--
+This attack move cuts down the target's HP to equal the user's HP.
+
+--Alolan Raichu
+exp: 0
+base: 122
+catch: 75
+egg: Field/Fairy
+Evolve	Psychic	Psychic - Psychic-type	Psychic: Special Move	90	100	10	10
+The target is hit by a strong telekinetic force. This may also lower the target's Sp. Def stat.
+0	Speed Swap	Speed Swap - Psychic-type	Speed Swap: Other Move	--	--	10	--
+The user exchanges Speed stats with the target.
+0	Thunder Shock	Thunder Shock - Electric-type	Thunder Shock: Special Move	40	100	30	10
+A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.
+0	Tail Whip	Tail Whip - Normal-type	Tail Whip: Other Move	--	100	30	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+1	Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--
+The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
+1	Thunderbolt	Thunderbolt - Electric-type	Thunderbolt: Special Move	90	100	15	10
+A strong electric blast crashes down on the target. This may also leave the target with paralysis.
+
+--Alolan Sandshrew
+exp: 0
+base: 93
+catch: 255
+egg: Field
+—	Scratch	Scratch - Normal-type	Scratch: Physical Move	40	100	35	--
+Hard, pointed, sharp claws rake the target to inflict damage.
+—	Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	--	40	--
+The user curls up to conceal weak spots and raise its Defense stat.
+3	Bide	Bide - Normal-type	Bide: Physical Move	??	--	10	--
+The user endures attacks for two turns, then strikes back to cause double the damage taken.
+5	Powder Snow	Powder Snow - Ice-type	Powder Snow: Special Move	40	100	25	10
+The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.
+7	Ice Ball	Ice Ball - Ice-type	Ice Ball: Physical Move	30	90	20	--
+The user attacks the target for five turns. The move's power increases each time it hits.
+9	Rapid Spin	Rapid Spin - Normal-type	Rapid Spin: Physical Move	20	100	40	--
+A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.
+11	Fury Cutter	Fury Cutter - Bug-type	Fury Cutter: Physical Move	40	95	20	--
+The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.
+14	Metal Claw	Metal Claw - Steel-type	Metal Claw: Physical Move	50	95	35	10
+The target is raked with steel claws. This may also raise the user's Attack stat.
+17	Swift	Swift - Normal-type	Swift: Special Move	60	--	20	--
+Star-shaped rays are shot at the opposing Pokémon. This attack never misses.
+20	Fury Swipes	Fury Swipes - Normal-type	Fury Swipes: Physical Move	18	80	15	--
+The target is raked with sharp claws or scythes quickly two to five times in a row.
+23	Iron Defense	Iron Defense - Steel-type	Iron Defense: Other Move	--	--	15	--
+The user hardens its body's surface like iron, sharply raising its Defense stat.
+26	Slash	Slash - Normal-type	Slash: Physical Move	70	100	20	--
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+30	Iron Head	Iron Head - Steel-type	Iron Head: Physical Move	80	100	15	30
+The user slams the target with its steel-hard head. This may also make the target flinch.
+34	Gyro Ball	Gyro Ball - Steel-type	Gyro Ball: Physical Move	??	100	5	--
+The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move's power.
+38	Swords Dance	Swords Dance - Normal-type	Swords Dance: Other Move	--	--	20	--
+A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.
+42	Hail	Hail - Ice-type	Hail: Other Move	--	--	10	--
+The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.
+46	Blizzard	Blizzard - Ice-type	Blizzard: Special Move	110	70	5	10
+A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.
+
+--Alolan Sandslash
+exp: 0
+base: 163
+catch: 90
+egg: Field
+Evolve	Icicle Spear	Icicle Spear - Ice-type	Icicle Spear: Physical Move	25	100	30	--
+The user launches sharp icicles at the target two to five times in a row.
+—	Metal Burst	Metal Burst - Steel-type	Metal Burst: Physical Move	??	100	10	--
+The user retaliates with much greater force against the opponent that last inflicted damage on it.
+—	Icicle Crash	Icicle Crash - Ice-type	Icicle Crash: Physical Move	85	90	10	30
+The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.
+—	Slash	Slash - Normal-type	Slash: Physical Move	70	100	20	--
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+—	Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	--	40	--
+The user curls up to conceal weak spots and raise its Defense stat.
+—	Ice Ball	Ice Ball - Ice-type	Ice Ball: Physical Move	30	90	20	--
+The user attacks the target for five turns. The move's power increases each time it hits.
+—	Metal Claw	Metal Claw - Steel-type	Metal Claw: Physical Move	50	95	35	10
+The target is raked with steel claws. This may also raise the user's Attack stat.
+
+--Alolan Vulpix
+exp: 0
+base: 63
+catch: 190
+egg: Field
+—	Powder Snow	Powder Snow - Ice-type	Powder Snow: Special Move	40	100	25	10
+The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.
+4	Tail Whip	Tail Whip - Normal-type	Tail Whip: Other Move	--	100	30	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+7	Roar	Roar - Normal-type	Roar: Other Move	--	--	20	--
+The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
+9	Baby-Doll Eyes	Baby-Doll Eyes - Fairy-type	Baby-Doll Eyes: Other Move	--	100	30	--
+The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.
+10	Ice Shard	Ice Shard - Ice-type	Ice Shard: Physical Move	40	100	30	--
+The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.
+12	Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--
+The target is exposed to a sinister ray that triggers confusion.
+15	Icy Wind	Icy Wind - Ice-type	Icy Wind: Special Move	55	95	15	100
+The user attacks with a gust of chilled air. This also lowers the opposing Pokémon's Speed stats.
+18	Payback	Payback - Dark-type	Payback: Physical Move	50	100	10	--
+The user stores power, then attacks. If the user moves after the target, this attack's power will be doubled.
+20	Mist	Mist - Ice-type	Mist: Other Move	--	--	30	--
+The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
+23	Feint Attack	Feint Attack - Dark-type	Feint Attack: Physical Move	60	--	20	--
+The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.
+26	Hex	Hex - Ghost-type	Hex: Special Move	65	100	10	--
+This relentless attack does massive damage to a target affected by status conditions.
+28	Aurora Beam	Aurora Beam - Ice-type	Aurora Beam: Special Move	65	100	20	10
+The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat.
+31	Extrasensory	Extrasensory - Psychic-type	Extrasensory: Special Move	80	100	20	10
+The user attacks with an odd, unseeable power. This may also make the target flinch.
+34	Safeguard	Safeguard - Normal-type	Safeguard: Other Move	--	--	25	--
+The user creates a protective field that prevents status conditions for five turns.
+36	Ice Beam	Ice Beam - Ice-type	Ice Beam: Special Move	90	100	10	10
+The target is struck with an icy-cold beam of energy. This may also leave the target frozen.
+39	Imprison	Imprison - Psychic-type	Imprison: Other Move	--	--	10	--
+If opposing Pokémon know any move also known by the user, they are prevented from using it.
+42	Blizzard	Blizzard - Ice-type	Blizzard: Special Move	110	70	5	10
+A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.
+44	Grudge	Grudge - Ghost-type	Grudge: Other Move	--	--	5	--
+If the user faints, the user's grudge fully depletes the PP of the opponent's move that knocked it out.
+47	Captivate	Captivate - Normal-type	Captivate: Other Move	--	100	20	--
+If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.
+50	Sheer Cold	Sheer Cold - Ice-type	Sheer Cold: Special Move	??	30	5	--
+The target faints instantly. It's less likely to hit the target if it's used by Pokémon other than Ice types.
+
+--Alolan Ninetales
+exp: 0
+base: 178
+catch: 75
+egg: Field
+Evolve	Dazzling Gleam	Dazzling Gleam - Fairy-type	Dazzling Gleam: Special Move	80	100	10	--
+The user damages opposing Pokémon by emitting a powerful flash.
+—	Imprison	Imprison - Psychic-type	Imprison: Other Move	--	--	10	--
+If opposing Pokémon know any move also known by the user, they are prevented from using it.
+—	Nasty Plot	Nasty Plot - Dark-type	Nasty Plot: Other Move	--	--	20	--
+The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.
+—	Ice Beam	Ice Beam - Ice-type	Ice Beam: Special Move	90	100	10	10
+The target is struck with an icy-cold beam of energy. This may also leave the target frozen.
+—	Ice Shard	Ice Shard - Ice-type	Ice Shard: Physical Move	40	100	30	--
+The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.
+—	Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--
+The target is exposed to a sinister ray that triggers confusion.
+—	Safeguard	Safeguard - Normal-type	Safeguard: Other Move	--	--	25	--
+The user creates a protective field that prevents status conditions for five turns.
+
+--Alolan Diglett
+exp: 0
+base: 81
+catch: 255
+egg: Field
+—	Sand Attack	Sand Attack - Ground-type	Sand Attack: Other Move	--	100	15	--
+Sand is hurled in the target's face, reducing the target's accuracy.
+—	Metal Claw	Metal Claw - Steel-type	Metal Claw: Physical Move	50	95	35	10
+The target is raked with steel claws. This may also raise the user's Attack stat.
+4	Growl	Growl - Normal-type	Growl: Other Move	--	100	40	--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+7	Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30
+The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
+10	Mud-Slap	Mud-Slap - Ground-type	Mud-Slap: Special Move	20	100	10	100
+The user hurls mud in the target's face to inflict damage and lower its accuracy.
+14	Magnitude	Magnitude - Ground-type	Magnitude: Physical Move	??	100	30	--
+The user attacks everything around it with a ground-shaking quake. Its power varies.
+18	Bulldoze	Bulldoze - Ground-type	Bulldoze: Physical Move	60	100	20	100
+The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.
+22	Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--
+This move enables the user to attack first. This move fails if the target is not readying an attack.
+25	Mud Bomb	Mud Bomb - Ground-type	Mud Bomb: Special Move	65	85	10	30
+The user launches a hard-packed mud ball to attack. This may also lower the target's accuracy.
+28	Earth Power	Earth Power - Ground-type	Earth Power: Special Move	90	100	10	10
+The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.
+31	Dig	Dig - Ground-type	Dig: Physical Move	80	100	10	--
+The user burrows, then attacks on the next turn.
+35	Iron Head	Iron Head - Steel-type	Iron Head: Physical Move	80	100	15	30
+The user slams the target with its steel-hard head. This may also make the target flinch.
+39	Earthquake	Earthquake - Ground-type	Earthquake: Physical Move	100	100	10	--
+The user sets off an earthquake that strikes every Pokémon around it.
+43	Fissure	Fissure - Ground-type	Fissure: Physical Move	??	30	5	--
+The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
+
+--Alolan Dugtrio
+exp: 0
+base: 153
+catch: 50
+egg: Field
+Evolve	Sand Tomb	Sand Tomb - Ground-type	Sand Tomb: Physical Move	35	85	15	100
+The user traps the target inside a harshly raging sandstorm for four to five turns.
+—	Rototiller	Rototiller - Ground-type	Rototiller: Other Move	--	--	10	100
+Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon.
+—	Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--
+The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+—	Tri Attack	Tri Attack - Normal-type	Tri Attack: Special Move	80	100	10	20
+The user strikes with a simultaneous three-beam attack. May also burn, freeze, or paralyze the target.
+—	Sand Attack	Sand Attack - Ground-type	Sand Attack: Other Move	--	100	15	--
+Sand is hurled in the target's face, reducing the target's accuracy.
+—	Metal Claw	Metal Claw - Steel-type	Metal Claw: Physical Move	50	95	35	10
+The target is raked with steel claws. This may also raise the user's Attack stat.
+—	Growl	Growl - Normal-type	Growl: Other Move	--	100	40	--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+4	Growl	Growl - Normal-type	Growl: Other Move	--	100	40	--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+7	Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30
+The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
+10	Mud-Slap	Mud-Slap - Ground-type	Mud-Slap: Special Move	20	100	10	100
+The user hurls mud in the target's face to inflict damage and lower its accuracy.
+14	Magnitude	Magnitude - Ground-type	Magnitude: Physical Move	??	100	30	--
+The user attacks everything around it with a ground-shaking quake. Its power varies.
+18	Bulldoze	Bulldoze - Ground-type	Bulldoze: Physical Move	60	100	20	100
+The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.
+22	Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--
+This move enables the user to attack first. This move fails if the target is not readying an attack.
+25	Mud Bomb	Mud Bomb - Ground-type	Mud Bomb: Special Move	65	85	10	30
+The user launches a hard-packed mud ball to attack. This may also lower the target's accuracy.
+30	Earth Power	Earth Power - Ground-type	Earth Power: Special Move	90	100	10	10
+The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.
+35	Dig	Dig - Ground-type	Dig: Physical Move	80	100	10	--
+The user burrows, then attacks on the next turn.
+41	Iron Head	Iron Head - Steel-type	Iron Head: Physical Move	80	100	15	30
+The user slams the target with its steel-hard head. This may also make the target flinch.
+47	Earthquake	Earthquake - Ground-type	Earthquake: Physical Move	100	100	10	--
+The user sets off an earthquake that strikes every Pokémon around it.
+53	Fissure	Fissure - Ground-type	Fissure: Physical Move	??	30	5	--
+The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
+
+--Alolan Meowth
+exp: 0
+base: 69
+catch: 255
+egg: Field
+—	Scratch	Scratch - Normal-type	Scratch: Physical Move	40	100	35	--
+Hard, pointed, sharp claws rake the target to inflict damage.
+—	Growl	Growl - Normal-type	Growl: Other Move	--	100	40	--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+6	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+9	Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100
+This attack hits first and makes the target flinch. It only works the first turn the user is in battle.
+14	Fury Swipes	Fury Swipes - Normal-type	Fury Swipes: Physical Move	18	80	15	--
+The target is raked with sharp claws or scythes quickly two to five times in a row.
+17	Screech	Screech - Normal-type	Screech: Other Move	--	85	40	--
+An earsplitting screech harshly lowers the target's Defense stat.
+22	Feint Attack	Feint Attack - Dark-type	Feint Attack: Physical Move	60	--	20	--
+The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.
+25	Taunt	Taunt - Dark-type	Taunt: Other Move	--	100	20	--
+The target is taunted into a rage that allows it to use only attack moves for three turns.
+30	Pay Day	Pay Day - Normal-type	Pay Day: Physical Move	40	100	20	--
+Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.
+33	Slash	Slash - Normal-type	Slash: Physical Move	70	100	20	--
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+38	Nasty Plot	Nasty Plot - Dark-type	Nasty Plot: Other Move	--	--	20	--
+The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.
+41	Assurance	Assurance - Dark-type	Assurance: Physical Move	60	100	10	--
+If the target has already taken some damage in the same turn, this attack's power is doubled.
+46	Captivate	Captivate - Normal-type	Captivate: Other Move	--	100	20	--
+If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.
+49	Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--
+The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+50	Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--
+This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
+55	Dark Pulse	Dark Pulse - Dark-type	Dark Pulse: Special Move	80	100	15	20
+The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.
+
+--Alolan Persian
+exp: 0
+base: 148
+catch: 90
+egg: Field
+Evolve	Swift	Swift - Normal-type	Swift: Special Move	60	--	20	--
+Star-shaped rays are shot at the opposing Pokémon. This attack never misses.
+—	Quash	Quash - Dark-type	Quash: Other Move	--	100	15	--
+The user suppresses the target and makes its move go last.
+—	Play Rough	Play Rough - Fairy-type	Play Rough: Physical Move	90	90	10	10
+The user plays rough with the target and attacks it. This may also lower the target's Attack stat.
+—	Switcheroo	Switcheroo - Dark-type	Switcheroo: Other Move	--	100	10	--
+The user trades held items with the target faster than the eye can follow.
+—	Scratch	Scratch - Normal-type	Scratch: Physical Move	40	100	35	--
+Hard, pointed, sharp claws rake the target to inflict damage.
+—	Growl	Growl - Normal-type	Growl: Other Move	--	100	40	--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+—	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+—	Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100
+This attack hits first and makes the target flinch. It only works the first turn the user is in battle.
+6	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+9	Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100
+This attack hits first and makes the target flinch. It only works the first turn the user is in battle.
+14	Fury Swipes	Fury Swipes - Normal-type	Fury Swipes: Physical Move	18	80	15	--
+The target is raked with sharp claws or scythes quickly two to five times in a row.
+17	Screech	Screech - Normal-type	Screech: Other Move	--	85	40	--
+An earsplitting screech harshly lowers the target's Defense stat.
+22	Feint Attack	Feint Attack - Dark-type	Feint Attack: Physical Move	60	--	20	--
+The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.
+25	Taunt	Taunt - Dark-type	Taunt: Other Move	--	100	20	--
+The target is taunted into a rage that allows it to use only attack moves for three turns.
+32	Power Gem	Power Gem - Rock-type	Power Gem: Special Move	80	100	20	--
+The user attacks with a ray of light that sparkles as if it were made of gemstones.
+37	Slash	Slash - Normal-type	Slash: Physical Move	70	100	20	--
+The target is attacked with a slash of claws or blades. Critical hits land more easily.
+44	Nasty Plot	Nasty Plot - Dark-type	Nasty Plot: Other Move	--	--	20	--
+The user stimulates its brain by thinking bad thoughts. This sharply raises the user's Sp. Atk stat.
+49	Assurance	Assurance - Dark-type	Assurance: Physical Move	60	100	10	--
+If the target has already taken some damage in the same turn, this attack's power is doubled.
+56	Captivate	Captivate - Normal-type	Captivate: Other Move	--	100	20	--
+If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.
+61	Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--
+The user slashes the target the instant an opportunity arises. Critical hits land more easily.
+65	Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--
+This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
+69	Dark Pulse	Dark Pulse - Dark-type	Dark Pulse: Special Move	80	100	15	20
+The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.
+
+--Alolan Geodude
+exp: 3
+base: 86
+catch: 255
+egg: Mineral
+—	Tackle	Tackle - Normal-type	Tackle: Physical Move	40	100	35	--
+A physical attack in which the user charges and slams into the target with its whole body.
+—	Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	--	40	--
+The user curls up to conceal weak spots and raise its Defense stat.
+4	Charge	Charge - Electric-type	Charge: Other Move	--	--	20	--
+The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.
+6	Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	--	20	--
+The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+10	Rollout	Rollout - Rock-type	Rollout: Physical Move	30	90	20	--
+The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
+12	Spark	Spark - Electric-type	Spark: Physical Move	65	100	20	30
+The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
+16	Rock Throw	Rock Throw - Rock-type	Rock Throw: Physical Move	50	90	15	--
+The user picks up and throws a small rock at the target to attack.
+18	Smack Down	Smack Down - Rock-type	Smack Down: Physical Move	50	100	15	100
+The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.
+22	Thunder Punch	Thunder Punch - Electric-type	Thunder Punch: Physical Move	75	100	15	10
+The target is punched with an electrified fist. This may also leave the target with paralysis.
+24	Self-Destruct	Self-Destruct - Normal-type	Self-Destruct: Physical Move	200	100	5	--
+The user attacks everything around it by causing an explosion. The user faints upon using this move.
+28	Stealth Rock	Stealth Rock - Rock-type	Stealth Rock: Other Move	--	--	20	--
+The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+30	Rock Blast	Rock Blast - Rock-type	Rock Blast: Physical Move	25	90	10	--
+The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+34	Discharge	Discharge - Electric-type	Discharge: Special Move	80	100	15	30
+The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.
+36	Explosion	Explosion - Normal-type	Explosion: Physical Move	250	100	5	--
+The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+40	Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--
+A reckless, life-risking tackle. This also damages the user quite a lot.
+42	Stone Edge	Stone Edge - Rock-type	Stone Edge: Physical Move	100	80	5	--
+The user stabs the target from below with sharpened stones. Critical hits land more easily.
+
+--Alolan Graveler
+exp: 3
+base: 134
+catch: 120
+egg: Mineral
+—	Tackle	Tackle - Normal-type	Tackle: Physical Move	40	100	35	--
+A physical attack in which the user charges and slams into the target with its whole body.
+—	Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	--	40	--
+The user curls up to conceal weak spots and raise its Defense stat.
+—	Charge	Charge - Electric-type	Charge: Other Move	--	--	20	--
+The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.
+—	Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	--	20	--
+The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+4	Charge	Charge - Electric-type	Charge: Other Move	--	--	20	--
+The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.
+6	Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	--	20	--
+The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+10	Rollout	Rollout - Rock-type	Rollout: Physical Move	30	90	20	--
+The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
+12	Spark	Spark - Electric-type	Spark: Physical Move	65	100	20	30
+The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
+16	Rock Throw	Rock Throw - Rock-type	Rock Throw: Physical Move	50	90	15	--
+The user picks up and throws a small rock at the target to attack.
+18	Smack Down	Smack Down - Rock-type	Smack Down: Physical Move	50	100	15	100
+The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.
+22	Thunder Punch	Thunder Punch - Electric-type	Thunder Punch: Physical Move	75	100	15	10
+The target is punched with an electrified fist. This may also leave the target with paralysis.
+24	Self-Destruct	Self-Destruct - Normal-type	Self-Destruct: Physical Move	200	100	5	--
+The user attacks everything around it by causing an explosion. The user faints upon using this move.
+30	Stealth Rock	Stealth Rock - Rock-type	Stealth Rock: Other Move	--	--	20	--
+The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+34	Rock Blast	Rock Blast - Rock-type	Rock Blast: Physical Move	25	90	10	--
+The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+40	Discharge	Discharge - Electric-type	Discharge: Special Move	80	100	15	30
+The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.
+44	Explosion	Explosion - Normal-type	Explosion: Physical Move	250	100	5	--
+The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+50	Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--
+A reckless, life-risking tackle. This also damages the user quite a lot.
+54	Stone Edge	Stone Edge - Rock-type	Stone Edge: Physical Move	100	80	5	--
+The user stabs the target from below with sharpened stones. Critical hits land more easily.
+
+--Alolan Golem
+exp: 3
+base: 173
+catch: 45
+egg: Mineral
+—	Heavy Slam	Heavy Slam - Steel-type	Heavy Slam: Physical Move	??	100	10	--
+The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.
+—	Tackle	Tackle - Normal-type	Tackle: Physical Move	40	100	35	--
+A physical attack in which the user charges and slams into the target with its whole body.
+—	Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	--	40	--
+The user curls up to conceal weak spots and raise its Defense stat.
+—	Charge	Charge - Electric-type	Charge: Other Move	--	--	20	--
+The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.
+—	Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	--	20	--
+The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+4	Charge	Charge - Electric-type	Charge: Other Move	--	--	20	--
+The user boosts the power of the Electric move it uses on the next turn. This also raises the user's Sp. Def stat.
+6	Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	--	20	--
+The user polishes its body to reduce drag. This can sharply raise the Speed stat.
+10	Steamroller	Steamroller - Bug-type	Steamroller: Physical Move	65	100	20	30
+The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.
+12	Spark	Spark - Electric-type	Spark: Physical Move	65	100	20	30
+The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
+16	Rock Throw	Rock Throw - Rock-type	Rock Throw: Physical Move	50	90	15	--
+The user picks up and throws a small rock at the target to attack.
+18	Smack Down	Smack Down - Rock-type	Smack Down: Physical Move	50	100	15	100
+The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it's hit.
+22	Thunder Punch	Thunder Punch - Electric-type	Thunder Punch: Physical Move	75	100	15	10
+The target is punched with an electrified fist. This may also leave the target with paralysis.
+24	Self-Destruct	Self-Destruct - Normal-type	Self-Destruct: Physical Move	200	100	5	--
+The user attacks everything around it by causing an explosion. The user faints upon using this move.
+30	Stealth Rock	Stealth Rock - Rock-type	Stealth Rock: Other Move	--	--	20	--
+The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.
+34	Rock Blast	Rock Blast - Rock-type	Rock Blast: Physical Move	25	90	10	--
+The user hurls hard rocks at the target. Two to five rocks are launched in a row.
+40	Discharge	Discharge - Electric-type	Discharge: Special Move	80	100	15	30
+The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.
+44	Explosion	Explosion - Normal-type	Explosion: Physical Move	250	100	5	--
+The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.
+50	Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--
+A reckless, life-risking tackle. This also damages the user quite a lot.
+54	Stone Edge	Stone Edge - Rock-type	Stone Edge: Physical Move	100	80	5	--
+The user stabs the target from below with sharpened stones. Critical hits land more easily.
+60	Heavy Slam	Heavy Slam - Steel-type	Heavy Slam: Physical Move	??	100	10	--
+The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.
+
+--Alolan Grimer
+exp: 0
+base: 90
+catch: 190
+egg: Amorphus
+—	Pound	Pound - Normal-type	Pound: Physical Move	40	100	35	--
+The target is physically pounded with a long tail, a foreleg, or the like.
+—	Poison Gas	Poison Gas - Poison-type	Poison Gas: Other Move	--	90	40	--
+A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those hit.
+4	Harden	Harden - Normal-type	Harden: Other Move	--	--	30	--
+The user stiffens all the muscles in its body to raise its Defense stat.
+7	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+12	Disable	Disable - Normal-type	Disable: Other Move	--	100	20	--
+For four turns, this move prevents the target from using the move it last used.
+15	Acid Spray	Acid Spray - Poison-type	Acid Spray: Special Move	40	100	20	100
+The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.
+18	Poison Fang	Poison Fang - Poison-type	Poison Fang: Physical Move	50	100	15	50
+The user bites the target with toxic fangs. This may also leave the target badly poisoned.
+21	Minimize	Minimize - Normal-type	Minimize: Other Move	--	--	10	--
+The user compresses its body to make itself look smaller, which sharply raises its evasiveness.
+26	Fling	Fling - Dark-type	Fling: Physical Move	??	100	10	--
+The user flings its held item at the target to attack. This move's power and effects depend on the item.
+29	Knock Off	Knock Off - Dark-type	Knock Off: Physical Move	65	100	20	--
+The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
+32	Crunch	Crunch - Dark-type	Crunch: Physical Move	80	100	15	20
+The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+37	Screech	Screech - Normal-type	Screech: Other Move	--	85	40	--
+An earsplitting screech harshly lowers the target's Defense stat.
+40	Gunk Shot	Gunk Shot - Poison-type	Gunk Shot: Physical Move	120	80	5	30
+The user shoots filthy garbage at the target to attack. This may also poison the target.
+43	Acid Armor	Acid Armor - Poison-type	Acid Armor: Other Move	--	--	20	--
+The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
+46	Belch	Belch - Poison-type	Belch: Special Move	120	90	10	--
+The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
+48	Memento	Memento - Dark-type	Memento: Other Move	--	100	10	--
+The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.
+
+--Alolan Muk
+exp: 0
+base: 90
+catch: 190
+egg: Amorphus
+Evolve	Venom Drench	Venom Drench - Poison-type	Venom Drench: Other Move	--	100	20	100
+Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.
+—	Pound	Pound - Normal-type	Pound: Physical Move	40	100	35	--
+The target is physically pounded with a long tail, a foreleg, or the like.
+—	Poison Gas	Poison Gas - Poison-type	Poison Gas: Other Move	--	90	40	--
+A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those hit.
+—	Harden	Harden - Normal-type	Harden: Other Move	--	--	30	--
+The user stiffens all the muscles in its body to raise its Defense stat.
+—	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+4	Harden	Harden - Normal-type	Harden: Other Move	--	--	30	--
+The user stiffens all the muscles in its body to raise its Defense stat.
+7	Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30
+The target is bitten with viciously sharp fangs. This may also make the target flinch.
+12	Disable	Disable - Normal-type	Disable: Other Move	--	100	20	--
+For four turns, this move prevents the target from using the move it last used.
+15	Acid Spray	Acid Spray - Poison-type	Acid Spray: Special Move	40	100	20	100
+The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.
+18	Poison Fang	Poison Fang - Poison-type	Poison Fang: Physical Move	50	100	15	50
+The user bites the target with toxic fangs. This may also leave the target badly poisoned.
+21	Minimize	Minimize - Normal-type	Minimize: Other Move	--	--	10	--
+The user compresses its body to make itself look smaller, which sharply raises its evasiveness.
+26	Fling	Fling - Dark-type	Fling: Physical Move	??	100	10	--
+The user flings its held item at the target to attack. This move's power and effects depend on the item.
+29	Knock Off	Knock Off - Dark-type	Knock Off: Physical Move	65	100	20	--
+The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
+32	Crunch	Crunch - Dark-type	Crunch: Physical Move	80	100	15	20
+The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.
+37	Screech	Screech - Normal-type	Screech: Other Move	--	85	40	--
+An earsplitting screech harshly lowers the target's Defense stat.
+40	Gunk Shot	Gunk Shot - Poison-type	Gunk Shot: Physical Move	120	80	5	30
+The user shoots filthy garbage at the target to attack. This may also poison the target.
+46	Acid Armor	Acid Armor - Poison-type	Acid Armor: Other Move	--	--	20	--
+The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
+52	Belch	Belch - Poison-type	Belch: Special Move	120	90	10	--
+The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
+57	Memento	Memento - Dark-type	Memento: Other Move	--	100	10	--
+The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.
+
+--Alolan Exeggutor
+exp: 3
+base: 212
+catch: 45
+egg: Grass
+Evolve	Dragon Hammer	Dragon Hammer - Dragon-type	Dragon Hammer: Physical Move	90	100	15	--
+The user uses its body like a hammer to attack the target and inflict damage.
+—	Seed Bomb	Seed Bomb - Grass-type	Seed Bomb: Physical Move	80	100	15	--
+The user slams a barrage of hard-shelled seeds down on the target from above.
+—	Barrage	Barrage - Normal-type	Barrage: Physical Move	15	85	20	--
+Round objects are hurled at the target to strike two to five times in a row.
+—	Hypnosis	Hypnosis - Psychic-type	Hypnosis: Other Move	--	60	20	--
+The user employs hypnotic suggestion to make the target fall into a deep sleep.
+—	Confusion	Confusion - Psychic-type	Confusion: Special Move	50	100	25	10
+The target is hit by a weak telekinetic force. This may also confuse the target.
+17	Psyshock	Psyshock - Psychic-type	Psyshock: Special Move	80	100	10	--
+The user materializes an odd psychic wave to attack the target. This attack does physical damage.
+27	Egg Bomb	Egg Bomb - Normal-type	Egg Bomb: Physical Move	100	75	10	--
+A large egg is hurled at the target with maximum force to inflict damage.
+37	Wood Hammer	Wood Hammer - Grass-type	Wood Hammer: Physical Move	120	100	15	--
+The user slams its rugged body into the target to attack. This also damages the user quite a lot.
+47	Leaf Storm	Leaf Storm - Grass-type	Leaf Storm: Special Move	130	90	5	100
+The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat.
+
+--Alolan Marowak
+exp: 0
+base: 124
+catch: 75
+egg: Monster
+—	Growl	Growl - Normal-type	Growl: Other Move	--	100	40	--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.
+—	Tail Whip	Tail Whip - Normal-type	Tail Whip: Other Move	--	100	30	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+—	Bone Club	Bone Club - Ground-type	Bone Club: Physical Move	65	85	20	10
+The user clubs the target with a bone. This may also make the target flinch.
+—	Flame Wheel	Flame Wheel - Fire-type	Flame Wheel: Physical Move	60	100	25	10
+The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.
+3	Tail Whip	Tail Whip - Normal-type	Tail Whip: Other Move	--	100	30	--
+The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.
+7	Bone Club	Bone Club - Ground-type	Bone Club: Physical Move	65	85	20	10
+The user clubs the target with a bone. This may also make the target flinch.
+11	Flame Wheel	Flame Wheel - Fire-type	Flame Wheel: Physical Move	60	100	25	10
+The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.
+13	Leer	Leer - Normal-type	Leer: Other Move	--	100	30	100
+The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.
+17	Hex	Hex - Ghost-type	Hex: Special Move	65	100	10	--
+This relentless attack does massive damage to a target affected by status conditions.
+21	Bonemerang	Bonemerang - Ground-type	Bonemerang: Physical Move	50	90	10	--
+The user throws the bone it holds. The bone loops around to hit the target twice—coming and going.
+23	Will-O-Wisp	Will-O-Wisp - Fire-type	Will-O-Wisp: Other Move	--	85	15	--
+The user shoots a sinister, bluish-white flame at the target to inflict a burn.
+27	Shadow Bone	Shadow Bone - Ghost-type	Shadow Bone: Physical Move	85	100	10	20
+The user attacks by beating the target with a bone that contains a spirit. This may also lower the target's Defense stat.
+33	Thrash	Thrash - Normal-type	Thrash: Physical Move	120	100	10	--
+The user rampages and attacks for two to three turns. The user then becomes confused.
+37	Fling	Fling - Dark-type	Fling: Physical Move	??	100	10	--
+The user flings its held item at the target to attack. This move's power and effects depend on the item.
+43	Stomping Tantrum	Stomping Tantrum - Ground-type	Stomping Tantrum: Physical Move	75	100	10	--
+Driven by frustration, the user attacks the target. If the user's previous move has failed, the power of this move doubles.
+49	Endeavor	Endeavor - Normal-type	Endeavor: Physical Move	??	100	5	--
+This attack move cuts down the target's HP to equal the user's HP.
+53	Flare Blitz	Flare Blitz - Fire-type	Flare Blitz: Physical Move	120	100	15	10
+The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.
+59	Retaliate	Retaliate - Normal-type	Retaliate: Physical Move	70	100	5	--
+The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move's power is increased.
+65	Bone Rush	Bone Rush - Ground-type	Bone Rush: Physical Move	25	90	10	--
+The user strikes the target with a hard bone two to five times in a row.
+
+--end
