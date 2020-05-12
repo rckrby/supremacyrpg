@@ -498,7 +498,7 @@
 3069 Blunder Policy
 3070 Chipped Pot
 3071 Clover Sweet
-3072 Cracket Pot
+3072 Cracked Pot
 3073 Dynamax Candy
 3074 Fancy Apple
 3075 Exp. Candy L
