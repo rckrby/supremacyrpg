@@ -1161,6 +1161,7 @@
 849:2:H Toxtricity-Factor
 849:3:H Toxtricity-Low-Factor
 849:4:M Toxtricity-Gmax
+849:5:M Toxtricity-Gmax-Low
 850:0 Sizzlipede
 851:0 Centiskorch
 851:1:H Centiskorch-Factor
@@ -1189,7 +1190,15 @@
 868:1:H Milcery-Factor
 869:0 Alcremie
 869:1:H Alcremie-Factor
-869:2:M Alcremie-Gmax
+869:2:A Alcremie-Ruby-Swirl
+869:3:A Alcremie-Ruby-Cream
+869:4:A Alcremie-Rainbow-Swirl
+869:5:A Alcremie-Mint-Cream
+869:6:A Alcremie-Matcha-Cream
+869:7:A Alcremie-Lemon-Cream
+869:8:A Alcremie-Caramel-Swirl
+869:9:A Alcremie-Salted-Cream
+869:10:M Alcremie-Gmax
 870:0 Falinks
 871:0 Pincurchin
 872:0 Snom

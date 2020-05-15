@@ -677,3 +677,38 @@
 709 The user attacks everything around it by causing its own head to explode. This also damages the user.
 710 The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.
 711 The user rotates, centering the hex nut in its chest, and then strikes with its arms twice in a row. This may also make the target flinch.
+712 The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed.
+713 The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target.
+714 This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field.
+715 The user eats its held Berry, then sharply raises its Defense stat.
+716 This move raises all the user's stats but prevents the user from switching out or fleeing.
+717 The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves.
+718 The user scatters a cloud of magic powder that changes the target to Psychic type.
+719 The user attacks twice using Dreepy. If there are two targets, this move hits each target once.
+720 The user has teatime with all the Pokémon in the battle. Each Pokémon eats its held Berry.
+721 The user locks the target in and prevents it from fleeing. This move also lowers the target's Defense and Sp. Def every turn.
+722 The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled.
+723 The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled.
+724 With its mysterious power, the user swaps the effects on either side of the field.
+725 The user raises all its stats by using some of its HP
+726 The user attacks by slamming its body into the target. The higher the user's Defense, the more damage it can inflict on the target
+727 The user sharply raises the target's Attack and Sp. Atk stats by decorating the target
+728 The user plays its drum, controlling the drum's roots to attack the target. This also lowers the target's Speed stat.
+729 The user snares the target in a snap trap for four to five turns
+730 The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn.
+731 The user becomes a gigantic sword and cuts the target. This move deals twice the damage if the target is Dynamaxed.
+732 The user becomes a gigantic shield and slams into the target. This move deals twice the damage if the target is Dynamaxed.
+733 Morpeko attacks and raises its Speed with the energy stored in its cheeks. This move's type changes depending on the user's form.
+734 The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats.
+735 The user attacks the target by poking it with a sharply pointed branch.
+736 The user attacks opposing Pokémon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat.
+737 The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat
+738 The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat.
+739 The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat.
+740 The user attacks the target by emitting steam. This may also confuse the target.
+741 The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.
+742 This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Direct contact harshly lowers the attacker's Defense stat.
+743 The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses.
+744 The user attacks wildly with its thick leek. The user can't move on the next turn, because the force of this move makes it stagger.
+745 This is Eternatus's most powerful attack in its original form. The user can't move on the next turn
+746 The user fires a beam of steel that it collected from its entire body. This also damages the user.

@@ -1,0 +1,71 @@
+235 Ball Fetch
+Sin uso competitivo
+
+236 Cotton Down
+Es como Gooey (Baba) pero cada vez que hace daño en lugar de con ataques de contacto
+
+237 Dauntless Shield
+
+
+238 Gorilla Tactics
+Es como si tuviera equipado una Choice Band.
+
+239 Gulp Missile
+
+
+240 Hunger Switch
+Morpeko cambia su aspecto para cambiar el tipo del ataque Aura Wheel.
+
+241 Ice Face
+Es como tener un sustituto pero solo para ataques físicos, se recupera con Hail. Además cambian los stats base de 875:0 a 875:1:A.
+
+242 Ice Scales
+Como Fur Coat pero sin duplicar la defensa y con los ataques especiales. Incluye Psyshock.
+
+243 Intrepid Sword
+
+
+244 Mimicry
+Funciona como Forecast pero con Terrenos en lugar de Climas.
+
+245 Mirror Armor
+Es como Magic Bouce pero con los movimientos y habilidades que disminuyen características.
+
+246 Neutralizing Gas
+Elimina el efecto de todas las otras habilidades
+
+247 Pastel Veil
+Es como Sweet Veil pero en lugar de evitar que se duerman, evita que se envenen.
+
+248 Perish Body
+Si sufre un ataque de contacto activa Persih Song.
+
+249 Power Spot
+Es como que lleve equipado una Life Orb sin el daño de retroceso. Es como Baterry pero aplica a todos a movimientos físicos también.
+
+250 Propeller Tail
+Ignora los movimientos Ally Switch, Rage Powder, Follow Me y Spotlight y las habilidades Lighning Rod y Storm Drain.
+
+251 Punk Rock
+Es como Battery pero con los movimientos de sonido.
+
+252 Ripen
+Duplica el efecto de bayas.
+
+253 Sand Spit
+Si es golpeado por un ataque se activa el ataque Sandstorm o la habilidad Sand Stream.
+
+254 Screen Cleaner
+Cuando el pokemon entra al campo se activa el efecto de Brick Break o Psychic Fangs.
+
+255 Stalwart
+Ignora los movimientos Ally Switch, Rage Powder, Follow Me y Spotlight y las habilidades Lighning Rod y Storm Drain.
+
+256 Steam Engine
+Es como Water Compaction pero además de movimientos de Agua también pueden ser de Fuego y en lugar de subir la Defensa en +2, sube la Velocidad en +6.
+
+257 Steely Spirit
+Es como Batery pero aumenta en un 50% los movimientos de tipo Acero. Tambíen puede ser como Swarm, Blaze, Torrent, pero ful heal y con movimientos de tipo Acero.
+
+258 Wandering Spirit
+Al recibir un ataque de contacto se activa la habilidad Mummy y el movimiento Skill Swap.

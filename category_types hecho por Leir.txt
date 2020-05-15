@@ -1,0 +1,14 @@
+0
+1 Efectos de estado
+2 Modifican Stats
+3 Curación/Regeneración
+4 Ataque con efecto secundario de estado
+5 Modifica stats y estado
+6 Ataques con efecto secundario baja stats
+7 Ataques con efecto secundario sube stats
+8 Ataques con efecto de curación
+9 1 Hit KO
+10 Climas (Haze??)
+11 Pantallas (Incluye Mist, Safeguard) 
+12 Roar, Whirlwind
+13 (Batton Pass, Encore, Mean Look, Sleep Talk, Heal Bell)
