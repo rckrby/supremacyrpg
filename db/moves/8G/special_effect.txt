@@ -421,3 +421,18 @@
 693 1009#Extreme evo boost
 695 1007#genesis supernova
 696 1008#guardian of alola
+709 8-50|1003#Mind Blown
+709 8-50|1003#Mind Blown
+714 203|1000-2_1#Jaw Lock
+715 89|1002#Stuff Cheeks
+716 12|1003#No Retreat
+718 157-13|1000-8_1#Magic Powder
+720 89|1000-2_1#Teatime
+721 12#Octolock
+725 8-33|1003#Clangorous Soul
+729 10#Snap Trap
+741 1002#Life Dew
+742 206|1002#Osbtruct
+744 11#Metero Assault
+745 11#Eternabeam
+746 8-50|1003#Steel Beam
