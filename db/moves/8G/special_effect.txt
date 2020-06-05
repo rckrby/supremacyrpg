@@ -428,7 +428,7 @@
 716 12|1003#No Retreat
 718 157-13|1000-8_1#Magic Powder
 720 89|1000-2_1#Teatime
-721 12#Octolock
+721 10|12#Octolock
 725 8-33|1003#Clangorous Soul
 729 10#Snap Trap
 741 1002#Life Dew
