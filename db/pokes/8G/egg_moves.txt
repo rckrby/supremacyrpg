@@ -1,5 +1,5 @@
 1:0 80 124 130 133 174 202 203 204 267 275 320 345 437 438 593
-4:0 44 68 187 200 232 242 246 251 264 314 349 394 406 407
+4:0 17 44 68 187 232 246 407 525
 7:0 54 114 175 193 243 252 281 287 300 323 330 362 392 396 406 453
 16:0 185 193 211 228 253 314 403 413 432
 19:0 44 68 103 154 172 179 253 279 382 387 515
@@ -32,11 +32,11 @@
 72:0 62 109 114 145 229 243 282 321 330 367 392
 74:0 5 174 175 203 264 335 359 431 469 475
 74:1 68 103 174 175 203 335 393 431 469 475
-77:0 24 32 37 38 67 95 172 204 234 445 502
+77:0 24 32 37 38 95 234
 77:1 24 32 37 38 95 234
 79:0 23 173 187 214 248 300 335 382 428 472 584
 79:1 23 187 335 584
-83:0 16 98 119 174 175 189 193 211 279 297 343 348 355 376 400 493
+83:0 16 98 143 174 175 297 343 355 364 400 493 515 646
 83:1 38 68 98 143 174 175 343 364 400 493 501
 84:0 48 98 114 119 175 185 283 363 372 413
 86:0 21 32 50 122 195 214 227 231 252 254 255 256 324 333 352 494 584
@@ -51,7 +51,7 @@
 104:0 24 103 130 187 195 197 203 246 442 498
 108:0 34 133 173 174 187 214 222 265 330 359 428 584
 109:0 60 103 149 174 180 194 220 254 255 256 288 390
-111:0 68 130 174 179 222 231 242 306 368 407 422 423 424 431 470 603
+111:0 68 130 174 368 397 407 470
 113:0 68 69 118 203 215 217 270 312 356 363 426
 114:0 72 73 93 133 175 202 267 283 363 384 437 476
 115:0 23 38 50 68 116 193 253 264 283 306 359 376 509
@@ -60,7 +60,7 @@
 122:0 95 102 109 196 248 252 271 298 358 417 471 478
 123:0 13 68 179 203 211 226 318 400 405 432 501
 127:0 31 98 175 185 276 364 370 382 450
-131:0 32 90 174 193 214 246 248 250 287 321 349 406 419 568
+131:0 32 90 174 246 321 568 644
 131:1 32 90 174 193 214 246 248 250 287 321 349 406 419 568
 133:0 24 174 175 189 197 273 281 321
 133:1 174 175 197 203 204 273 281 313 321 343 363 445 485 500
@@ -77,11 +77,11 @@
 163:0 17 18 48 101 297 432
 165:0 60 103 117 146 227 264 282 318 366 405 409 450
 167:0 41 49 50 60 224 226 228 324 390 400 476 527
-170:0 54 60 97 103 133 175 250 351 352 362 487
+170:0 54 60 352 487
 172:0 175 217 252 268 273 321 344 586
-173:0 102 118 133 150 187 217 273 312 313 321 343 500 505 599
+173:0 217 273 312 321 505
 174:0 185 195 214 217 273 313 343 356 386 387 445 505 599
-175:0 64 119 193 217 234 248 290 326 375 381 417 500
+175:0 64 217 234 326 332 375
 177:0 65 98 297 355 389 493
 179:0 28 34 36 97 103 231 260 268 316 495 587 588
 183:0 34 48 133 187 195 217 248 276 287 293 330 346 453
@@ -98,14 +98,14 @@
 206:0 29 44 97 117 173 174 214 246 277 290 310 376 506
 207:0 13 17 38 68 97 226 232 328 342 364 379 400 431 440
 209:0 38 102 118 173 185 215 217 242 264 265 313 370 422 423 424
-211:0 48 61 114 175 310 324 352 362 453 491
-213:0 51 189 230 270 282 328 350 367 515
+211:0 48 61 114 175 310 352 453 491
+213:0 51 92 111 230 282 343 367 515 571
 214:0 38 69 106 117 175 224 228 264 279 350
-215:0 8 44 68 180 193 228 252 274 306 364 386 419 420 458 556 634
+215:0 44 68 180 252 364 420 458 556
 216:0 36 38 68 69 187 214 232 238 242 281 313 370 400 498 579
 218:0 108 151 174 205 254 255 256 257 262 385 414 517
 220:0 38 44 90 174 246 556 568
-222:0 54 103 109 112 117 133 174 267 275 293 333 352 392 457 668
+222:0 54 109 174 267 352 457
 222:1 109 114 194 267 352 457
 223:0 48 114 175 190 323 491
 225:0 62 68 98 150 194 229 252 262 420 568 635
@@ -119,7 +119,7 @@
 239:0 2 7 8 27 96 112 223 238 264 359 364
 240:0 2 5 9 103 112 116 183 187 223 231 238 384 394 584
 241:0 38 69 146 174 179 203 214 217 270 359 363 386 531 584
-246:0 23 116 174 200 228 231 246 334 349 372 442 446
+246:0 23 174 246
 252:0 13 24 73 225 235 242 283 300 306 320 331 345 363 388 437 593
 255:0 67 68 97 174 179 203 226 265 297 306 364 387 400 481
 258:0 23 38 44 68 112 124 174 243 246 250 253 281 287 301 419 426 469
@@ -140,8 +140,8 @@
 298:0 21 34 47 227 287 293 313 321 330 346 383 487
 299:0 38 203 205 222 335 446 469
 300:0 226 252 253 270 273 313 321 322 387 389 426 428 445 493
-302:0 105 212 236 260 271 286 364 368 389 417 445
-303:0 21 69 246 305 321 368 385 386 389 422 423 424 445 599
+302:0 105 259 260 364 368 389
+303:0 21 69 246 321 602
 304:0 23 34 103 174 179 265 276 283 407 442 446 457
 307:0 7 8 9 193 223 226 252 290 384 385 409 418 427 501
 309:0 29 174 209 415
@@ -152,17 +152,17 @@
 315:0 42 75 79 170 178 191 202 235 320 331 363 402 437
 316:0 123 151 174 189 194 220 441 607
 318:0 37 38 56 129 194 246 362 665
-320:0 34 37 38 90 111 173 174 214 321 392 428 487 499
+320:0 37 38 90 111 174 205 321 392 487
 322:0 23 34 74 111 184 203 205 246 254 255 256 257 281 336 426 442
-324:0 90 130 203 214 276 281 284 481 499
+324:0 90 130 175 246 281
 325:0 18 133 203 243 248 271 285 326 381 428 493
 327:0 50 196 226 227 229 252 265 271 272 273 274 313 352 375 427 470 651
-328:0 16 98 116 175 203 210 324 341 414 450
+328:0 16 98 175 210 364 450 646
 331:0 50 51 67 68 223 265 298 320 335 345 388 402 415 417 584 591 603
 333:0 97 99 114 211 228 297 304 355 384 407
 335:0 13 24 50 68 154 174 175 231 232 364 400 458 501 515
 336:0 34 184 231 254 255 256 372 378 386 400 415 515
-339:0 36 37 56 175 209 250 330 341 349 414
+339:0 36 37 175 209
 341:0 38 163 232 246 415 453
 345:0 72 105 112 174 203 243 321 378 446
 347:0 28 103 174 229 282 334 352 440 453
@@ -192,26 +192,26 @@
 417:0 39 44 111 175 205 231 260 266 268 313 343 516 594
 418:0 3 29 154 163 189 210 226 316 382 392 401 415 487 541
 420:0 75 111 205 230 267 312 321 361 505 592
-422:0 54 68 90 124 133 151 174 243 254 255 256 262 281 362 376 499
+422:0 54 68 124 151 174 243 254 255 256 281 499
 425:0 50 95 114 262 432 499
 427:0 7 8 9 67 175 186 227 252 264 298 300 313 322 327 383 415 458 509
 431:0 28 39 44 98 175 289 313 358 372 387
 433:0 50 95 105 174 248 273 285 322 500
 434:0 38 43 114 123 163 310
-438:0 29 106 111 120 174 203 205 328 446
+438:0 29 106 111 174 205 397
 439:0 109 252 321 471
 440:0 68 118 203 215 217 270 312 356 363 387 426
 441:0 48 97 101 211 214 227 314 417 432 561
 442:0 108 171 194 220 286 288 425 445 492
 443:0 34 37 38 184 200 225 231 232 239 328 341 431 442
-446:0 18 38 68 120 122 174 204 228 363 428 495 584
-447:0 44 67 97 136 170 197 238 242 266 299 327 334 410 418 509
-449:0 18 34 174 214 254 255 256 279 303 328
-451:0 18 28 41 97 103 109 163 185 228 231 342 400
-453:0 29 68 96 223 238 252 265 358 364 367 382 409 410 418 501
+446:0 38 68 90 174 584
+447:0 44 136 170 197 238 336 410 418 509
+449:0 18 174 254 255 256
+451:0 18 28 109 163
+453:0 29 68 223 238 252 364 410 418 501
 455:0 21 73 75 78 79 202 235 320 345 388 476
 456:0 60 62 97 150 175 186 204 321 324 362 401
-458:0 21 56 114 133 150 239 243 300 324 346 366 469
+458:0 21 109 114 150 239 243 366
 459:0 23 38 73 74 130
 495:0 137 212 228 230 231 239 243 345 363 445 593
 498:0 34 37 174 214 222 276 281 283 343 389 484
@@ -233,50 +233,50 @@
 535:0 54 92 189 352
 540:0 13 97 103 170 226 293 318 382 403
 543:0 36 41 42 191 390 431
-546:0 227 251 262 313 320 321 363 388 415 445
+546:0 262 267 321 388 415
 548:0 117 203 204 230 275 320 361 363 388
 550:0 61 283
 551:0 38 68 116 212 228 251 253 382 422 424 431 658
-554:0 36 116 172 203 214 227 264 281 289 359
+554:0 36 172 264 281 326 359
 554:1 36 172 264 281 359 510 568 602
-556:0 73 191 320 331 340 388 402 452 593
+556:0 388 452
 557:0 68 174 282 335 400 469
-559:0 7 8 9 68 133 185 197 252 349 409 428 501
-561:0 211 246 248 285 355 375 500
-562:0 50 171 203 262 286 313 377 390 417 502
+559:0 68 197 252 491 501 602
+561:0 246 355 375
+562:0 262
 562:1 262
 564:0 21 34 88 117 175 250 282 334 352 385 668
 566:0 44 211 282 406 414 415 432 457 502
 568:0 28 114 174 205 475
 570:0 68 197 262 289 326 383 389 399 445
 572:0 39 175 282 401
-574:0 212 243 253 357 399 445 505
-577:0 101 109 151 270 271 286 290 310
+574:0 212 243 252 259 505
+577:0 109 151 310
 580:0 16 119 211 300 314 362 381 382
 582:0 153 393 420 475 556 635
 585:0 97 214 226 235 313 316 320 363 388
 587:0 204 226 231 310 321 343 351 355 403 594 660
-588:0 30 68 103 185 224 228 282 450 529
+588:0 68 163 282 400 450
 590:0 34 74 77 78 111 203 205 380
-592:0 54 105 109 132 151 220
+592:0 54 61 109 151 220 650
 594:0 54 203 220 243 287 321
 595:0 40 104 522 571 656
 597:0 73 92 282 356 491
-605:0 50 100 112 285 310 322 384 385 417 502
-607:0 51 114 151 203 257 445 471 499
-610:0 13 68 106 116 179 203 231 283 400 406
-613:0 8 214 227 264 281 372 400 419 579
-616:0 38 170 189 191 203 226 227 228 364 470
-618:0 174 180 209 214 220 281 310 351 382 414 513 587
+605:0 50 194 244 310
+607:0 114 151 471 499
+610:0 68 106 283 400 646
+613:0 264 281 400
+616:0 38 170 364 470
+618:0 174 180 209 220 281 310 513
 618:1 20 68 174 180 220 281 310 513
 619:0 67 203 226 233 265 282 364 382 502
 621:0 137 185 228 231 232 289 306 342 389 422 424
-624:0 29 212 228 279 389 427 446 501
+624:0 29 212 389 501
 626:0 23 29 130 133 189 341 431 442 584
-629:0 184 211 212 282 313 355 492
-631:0 34 35 174 185 214 228 257 321 389 400 584
-632:0 103 185 203 226 422 431
-633:0 103 310 372 399 414 422 423 424 457 458
+629:0 92 212 355
+631:0 174 321 389 400 584
+632:0 175 368 522 571 646
+633:0 310 457 458 584
 636:0 81 106 193 203 234 393 428
 650:0 111 174 187 191 205 235 501
 653:0 95 257 273 277
@@ -289,24 +289,24 @@
 672:0 111 205 208
 674:0 69 480 501 511 658
 676:0 102 272 287 445 526
-677:0 112 271 274 281
-679:0 194 319 425 469
-682:0 50 273 287 445
-684:0 187 281 383 495
-686:0 194 260 293 471 493
-688:0 270 321 346 415
+677:0 281 321
+679:0 194 335 469
+682:0 50 273 495
+684:0 281 383 495 605
+686:0 50 194 367
+688:0 28 400 415
 690:0 114 151 390 579 607
 692:0 152 203 270 453 494
-694:0 97 137 293 588
+694:0 137 407 525
 696:0 174 305 349 397 422 423 424
 698:0 112 114 243 393 435
-701:0 97 226 300 382 494 501 502
+701:0 212 238 364 432 494 501
 702:0 270 343 363 587
-704:0 68 151 174 203 231 342
+704:0 68 741
 707:0 168 199 334 415
-708:0 286 288 516 607
+708:0 50 288 389
 710:0 50 174 194
-712:0 54 105 112 243
+712:0 54 243 635
 714:0 407 432
 722:0 109 114 174 226 432 466
 725:0 34 242 252 257 279 417
@@ -322,28 +322,27 @@
 742:0 572 583 605
 744:0 37 306 389 422 424
 746:0 36 54 352
-747:0 114 254 255 256
+747:0 114 254 255 256 571
 749:0 38 46 90 479
-751:0 62 254 255 471
+751:0 254 255 471 605
 753:0 202 311 312 432 437
-755:0 73 74 77 78 133
-757:0 28 252 282 289 584
+755:0 73 74 77 78
+757:0 28 189 252 584
 759:0 23 111 205 395
 761:0 235 283 367
 764:0 133 203 381 495
-765:0 326 472 633
-766:0 69 98 233 364 442 501
-767:0 106 191 232 453 469
+765:0 138 281 326 387
+766:0 68 69 98 233 282 364 501
+767:0 106 205 232 453 469
 769:0 133 194 246 254 255 256
 771:0 180 207 243 321
 775:0 47 204 273 579
-776:0 83 279 457 469
-777:0 41 175 179 217 227 252 273 321 586
-778:0 171 174 194 288
+776:0 174 229 457 469
+777:0 175 217 252 273 321 586
+778:0 174 194 288
 779:0 99 305 352 423
-780:0 13 54 407 542 579
-782:0 68 179 225
-810:0 70 73 74 252 267 359 388
+780:0 54 321 407
+782:0 68 225 264
 813:0 28 136 162 389
 816:0 54 104 114 392 420 453 591
 819:0 111 187 205 387
@@ -374,1201 +373,3 @@
 878:0 18 21 38 90 111 174 207 584
 884:0 163 243 400
 885:0 50 104 109 174 288 389 525
--- Espurr
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-
--- Swirlix
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-After You	After You - Normal-type	After You: Other Move	--	101	15	--	Details
-The user helps the target and makes it use its move right after the user.
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Copycat	Copycat - Normal-type	Copycat: Other Move	--	101	20	--	Details
-The user mimics the move used immediately before it. The move fails if no other move has been used yet.
-Sticky Web	Sticky Web - Bug-type	Sticky Web: Other Move	--	101	20	--	Details
-The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle.
-
--- Spritzee
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Disable	Disable - Normal-type	Disable: Other Move	--	100	20	--	Details
-For four turns, this move prevents the target from using the move it last used.
-Wish	Wish - Normal-type	Wish: Other Move	--	101	10	--	Details
-One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.
-After You	After You - Normal-type	After You: Other Move	--	101	15	--	Details
-The user helps the target and makes it use its move right after the user.
-
--- Dewpider
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Power Split	Power Split - Psychic-type	Power Split: Other Move	--	101	10	--	Details
-The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
-Stockpile	Stockpile - Normal-type	Stockpile: Other Move	--	101	20	--	Details
-The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.
-Spit Up	Spit Up - Normal-type	Spit Up: Special Move	??	100	10	--	Details
-The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.
-Sticky Web	Sticky Web - Bug-type	Sticky Web: Other Move	--	101	20	--	Details
-The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle.
-
--- Farfetch'd
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Gust	Gust - Flying-type	Gust: Special Move	40	100	35	--	Normal
-Details
-A gust of wind is whipped up by wings and launched at the target to inflict damage.
-Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--	NormalGalarian Form
-Details
-The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	NormalGalarian Form
-Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-Feather Dance	Feather Dance - Flying-type	Feather Dance: Other Move	--	100	15	--	Normal
-Details
-The user covers the target's body with a mass of down that harshly lowers its Attack stat.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	NormalGalarian Form
-Details
-A move that works differently for the Ghost type than for all other types.
-Covet	Covet - Normal-type	Covet: Physical Move	60	100	25	--	NormalGalarian Form
-Details
-The user endearingly approaches the target, then steals the target's held item.
-Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--	NormalGalarian Form
-Details
-The user slashes the target the instant an opportunity arises. Critical hits land more easily.
-Roost	Roost - Flying-type	Roost: Other Move	--	101	10	--	Normal
-Details
-The user lands and rests its body. This move restores the user's HP by up to half of its max HP.
-Simple Beam	Simple Beam - Normal-type	Simple Beam: Other Move	--	100	15	--	NormalGalarian Form
-Details
-The user's mysterious psychic wave changes the target's Ability to Simple.
-First Impression	First Impression - Bug-type	First Impression: Physical Move	90	100	10	--	Normal
-Details
-Although this move has great power, it only works the first turn each time the user enters battle.
-Final Gambit	Final Gambit - Fighting-type	Final Gambit: Special Move	??	100	5	--	Normal
-Details
-The user risks everything to attack its target. The user faints but does damage equal to its HP.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	NormalGalarian Form
-Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-Sky Attack	Sky Attack - Flying-type	Sky Attack: Physical Move	140	90	5	30	NormalGalarian Form
-Details
-A second-turn attack move where critical hits land more easily. This may also make the target flinch.
-
--- Chinchou
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Psybeam	Psybeam - Psychic-type	Psybeam: Special Move	65	100	20	10	Details
-The target is attacked with a peculiar ray. This may also leave the target confused.
-Mist	Mist - Ice-type	Mist: Other Move	--	101	30	--	Details
-The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
-Water Pulse	Water Pulse - Water-type	Water Pulse: Special Move	60	100	20	20	Details
-The user attacks the target with a pulsing blast of water. This may also confuse the target.
-Soak	Soak - Water-type	Soak: Other Move	--	100	20	--	Details
-The user shoots a torrent of water at the target and changes the target's type to Water.
-
--- Croagunk 
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-Dynamic Punch	Dynamic Punch - Fighting-type	Dynamic Punch: Physical Move	100	50	5	100	Details
-The user punches the target with full, concentrated power. This confuses the target if it hits.
-Headbutt	Headbutt - Normal-type	Headbutt: Physical Move	70	100	15	30	Details
-The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.
-Vacuum Wave	Vacuum Wave - Fighting-type	Vacuum Wave: Special Move	40	100	30	--	Details
-The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-Cross Chop	Cross Chop - Fighting-type	Cross Chop: Physical Move	100	80	5	--	Details
-The user delivers a double chop with its forearms crossed. Critical hits land more easily.
-Bullet Punch	Bullet Punch - Steel-type	Bullet Punch: Physical Move	40	100	30	--	Details
-The user strikes the target with tough punches as fast as bullets. This move always goes first.
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Quick Guard	Quick Guard - Fighting-type	Quick Guard: Other Move	--	101	15	--	Details
-The user protects itself and its allies from priority moves.
-
--- Scraggy
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Detect	Detect - Fighting-type	Detect: Other Move	--	101	5	--	Details
-This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-Quick Guard	Quick Guard - Fighting-type	Quick Guard: Other Move	--	101	15	--	Details
-The user protects itself and its allies from priority moves.
-Power-Up Punch	Power-Up Punch - Fighting-type	Power-Up Punch: Physical Move	40	100	20	100	Details
-Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.
-Acid Spray	Acid Spray - Poison-type	Acid Spray: Special Move	40	100	20	100	Details
-The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.
-
--- Stunkfish
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	NormalGalarian Form
-Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30	NormalGalarian Form
-Details
-The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	NormalGalarian Form
-Details
-A move that works differently for the Ghost type than for all other types.
-Spite	Spite - Ghost-type	Spite: Other Move	--	100	10	--	NormalGalarian Form
-Details
-The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
-Spark	Spark - Electric-type	Spark: Physical Move	65	100	20	30	Normal
-Details
-The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
-Pain Split	Pain Split - Normal-type	Pain Split: Other Move	--	101	20	--	NormalGalarian Form
-Details
-The user adds its HP to the target's HP, then equally shares the combined HP with the target.
-Reflect Type	Reflect Type - Normal-type	Reflect Type: Other Move	--	101	15	--	NormalGalarian Form
-Details
-The user reflects the target's type, making the user the same type as the target.
-
--- Shuckle
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Sweet Scent	Sweet Scent - Normal-type	Sweet Scent: Other Move	--	100	20	--	Details
-A sweet scent that harshly lowers opposing Pokémon's evasiveness.
-Knock Off	Knock Off - Dark-type	Knock Off: Physical Move	65	100	20	--	Details
-The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
-Acupressure	Acupressure - Normal-type	Acupressure: Other Move	--	101	30	--	Details
-The user applies pressure to stress points, sharply boosting one of its or its allies' stats.
-Acid	Acid - Poison-type	Acid: Special Move	40	100	30	10	Details
-Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.
-Final Gambit	Final Gambit - Fighting-type	Final Gambit: Special Move	??	100	5	--	Details
-The user risks everything to attack its target. The user faints but does damage equal to its HP.
-Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	101	40	--	Details
-The user curls up to conceal weak spots and raise its Defense stat.
-Infestation	Infestation - Bug-type	Infestation: Special Move	20	100	20	100	Details
-The target is infested and attacked for four to five turns. The target can't flee during this time.
-Toxic	Toxic - Poison-type	Toxic: Other Move	--	90	10	--	Details
-A move that leaves the target badly poisoned. Its poison damage worsens every turn.
-Covet	Covet - Normal-type	Covet: Physical Move	60	100	25	--	Details
-The user endearingly approaches the target, then steals the target's held item.
-
--- Barboach
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Thrash	Thrash - Normal-type	Thrash: Physical Move	120	100	10	--	Details
-The user rampages and attacks for two to three turns. The user then becomes confused.
-Spark	Spark - Electric-type	Spark: Physical Move	65	100	20	30	Details
-The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-Take Down	Take Down - Normal-type	Take Down: Physical Move	90	85	20	--	Details
-A reckless, full-body charge attack for slamming into the target. This also damages the user a little.
-
--- Shellos
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Mirror Coat	Mirror Coat - Psychic-type	Mirror Coat: Special Move	??	100	20	--	Details
-A retaliation move that counters any special attack, inflicting double the damage taken.
-Stockpile	Stockpile - Normal-type	Stockpile: Other Move	--	101	20	--	Details
-The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.
-Swallow	Swallow - Normal-type	Swallow: Other Move	--	101	10	--	Details
-The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.
-Spit Up	Spit Up - Normal-type	Spit Up: Special Move	??	100	10	--	Details
-The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Sludge	Sludge - Poison-type	Sludge: Special Move	65	100	20	30	Details
-Unsanitary sludge is hurled at the target. This may also poison the target.
-Clear Smog	Clear Smog - Poison-type	Clear Smog: Special Move	50	101	15	--	Details
-The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal.
-Mist	Mist - Ice-type	Mist: Other Move	--	101	30	--	Details
-The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
-Acid Armor	Acid Armor - Poison-type	Acid Armor: Other Move	--	101	20	--	Details
-The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
-
--- Wimpod
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Metal Claw	Metal Claw - Steel-type	Metal Claw: Physical Move	50	95	35	10	Details
-The target is raked with steel claws. This may also raise the user's Attack stat.
-Wide Guard	Wide Guard - Rock-type	Wide Guard: Other Move	--	101	10	--	Details
-The user and its allies are protected from wide-ranging attacks for one turn.
-Harden	Harden - Normal-type	Harden: Other Move	--	101	30	--	Details
-The user stiffens all the muscles in its body to raise its Defense stat.
-Aqua Jet	Aqua Jet - Water-type	Aqua Jet: Physical Move	40	100	20	--	Details
-The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
-Rollout	Rollout - Rock-type	Rollout: Physical Move	30	90	20	--	Details
-The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
-
--- Binacle
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Switcheroo	Switcheroo - Dark-type	Switcheroo: Other Move	--	100	10	--	Details
-The user trades held items with the target faster than the eye can follow.
-Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--	Details
-The user slashes the target the instant an opportunity arises. Critical hits land more easily.
-Sand Attack	Sand Attack - Ground-type	Sand Attack: Other Move	--	100	15	--	Details
-Sand is hurled in the target's face, reducing the target's accuracy.
-
--- Corsola
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Mist	Mist - Ice-type	Mist: Other Move	--	101	30	--	Normal
-Details
-The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
-Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--	NormalGalarian Form
-Details
-The target is exposed to a sinister ray that triggers confusion.
-Nature Power	Nature Power - Normal-type	Nature Power: Other Move	--	101	20	--	NormalGalarian Form
-Details
-This attack makes use of nature's power. Its effects vary depending on the user's environment.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Normal
-Details
-A move that works differently for the Ghost type than for all other types.
-Water Pulse	Water Pulse - Water-type	Water Pulse: Special Move	60	100	20	20	NormalGalarian Form
-Details
-The user attacks the target with a pulsing blast of water. This may also confuse the target.
-Head Smash	Head Smash - Rock-type	Head Smash: Physical Move	150	80	5	--	NormalGalarian Form
-Details
-The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.
-
--- Salandit
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Belch	Belch - Poison-type	Belch: Special Move	120	90	10	--	Details
-The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
-Sand Attack	Sand Attack - Ground-type	Sand Attack: Other Move	--	100	15	--	Details
-Sand is hurled in the target's face, reducing the target's accuracy.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-Mud-Slap	Mud-Slap - Ground-type	Mud-Slap: Special Move	20	100	10	100	Details
-The user hurls mud in the target's face to inflict damage and lower its accuracy.
-
--- Pawniard
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--	Details
-This move enables the user to attack first. This move fails if the target is not readying an attack.
-Headbutt	Headbutt - Normal-type	Headbutt: Physical Move	70	100	15	30	Details
-The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.
-Mean Look	Mean Look - Normal-type	Mean Look: Other Move	--	101	5	--	Details
-The user pins the target with a dark, arresting look. The target becomes unable to flee.
-Quick Guard	Quick Guard - Fighting-type	Quick Guard: Other Move	--	101	15	--	Details
-The user protects itself and its allies from priority moves.
-
--- Bonsly
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Headbutt	Headbutt - Normal-type	Headbutt: Physical Move	70	100	15	30	Details
-The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.
-Harden	Harden - Normal-type	Harden: Other Move	--	101	30	--	Details
-The user stiffens all the muscles in its body to raise its Defense stat.
-Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	101	40	--	Details
-The user curls up to conceal weak spots and raise its Defense stat.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Rollout	Rollout - Rock-type	Rollout: Physical Move	30	90	20	--	Details
-The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
-Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	101	20	--	Details
-The user polishes its body to reduce drag. This sharply raises the Speed stat.
-
--- Cleffa
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Present	Present - Normal-type	Present: Physical Move	??	90	15	--	Details
-The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.
-Wish	Wish - Normal-type	Wish: Other Move	--	101	10	--	Details
-One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.
-Aromatherapy	Aromatherapy - Grass-type	Aromatherapy: Other Move	--	101	5	--	Details
-The user releases a soothing scent that heals all status conditions affecting the user's party.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Heal Pulse	Heal Pulse - Psychic-type	Heal Pulse: Other Move	--	101	10	--	Details
-The user emits a healing pulse that restores the target's HP by up to half of its max HP.
-
--- Togepi
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Present	Present - Normal-type	Present: Physical Move	??	90	15	--	Details
-The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.
-Peck	Peck - Flying-type	Peck: Physical Move	35	100	35	--	Details
-The target is jabbed with a sharply pointed beak or horn.
-Psycho Shift	Psycho Shift - Psychic-type	Psycho Shift: Other Move	--	100	10	--	Details
-Using its psychic power of suggestion, the user transfers its status conditions to the target.
-Extrasensory	Extrasensory - Psychic-type	Extrasensory: Special Move	80	100	20	10	Details
-The user attacks with an odd, unseeable power. This may also make the target flinch.
-Morning Sun	Morning Sun - Normal-type	Morning Sun: Other Move	--	101	5	--	Details
-The user restores its own HP. The amount of HP regained varies with the weather.
-Aerial Ace	Aerial Ace - Flying-type	Aerial Ace: Physical Move	60	101	20	--	Details
-The user confounds the target with speed, then slashes. This attack never misses.
-
--- Munchlax
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--	Details
-A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Fissure	Fissure - Ground-type	Fissure: Physical Move	??	30	5	--	Details
-The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Belch	Belch - Poison-type	Belch: Special Move	120	90	10	--	Details
-The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
-
--- Cottonee
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Memento	Memento - Dark-type	Memento: Other Move	--	100	10	--	Details
-The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.
-Switcheroo	Switcheroo - Dark-type	Switcheroo: Other Move	--	100	10	--	Details
-The user trades held items with the target faster than the eye can follow.
-Worry Seed	Worry Seed - Grass-type	Worry Seed: Other Move	--	100	10	--	Details
-A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.
-Nature Power	Nature Power - Normal-type	Nature Power: Other Move	--	101	20	--	Details
-This attack makes use of nature's power. Its effects vary depending on the user's environment.
-
--- Rhyhorn
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Dragon Rush	Dragon Rush - Dragon-type	Dragon Rush: Physical Move	100	75	10	20	Details
-The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.
-Skull Bash	Skull Bash - Normal-type	Skull Bash: Physical Move	130	100	10	100	Details
-The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.
-Metal Burst	Metal Burst - Steel-type	Metal Burst: Physical Move	??	100	10	--	Details
-The user retaliates with much greater force against the opponent that last inflicted damage on it.
-Guard Split	Guard Split - Psychic-type	Guard Split: Other Move	--	101	10	--	Details
-The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.
-Rock Polish	Rock Polish - Rock-type	Rock Polish: Other Move	--	101	20	--	Details
-The user polishes its body to reduce drag. This sharply raises the Speed stat.
-
--- Gothita
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Mirror Coat	Mirror Coat - Psychic-type	Mirror Coat: Special Move	??	100	20	--	Details
-A retaliation move that counters any special attack, inflicting double the damage taken.
-Mean Look	Mean Look - Normal-type	Mean Look: Other Move	--	101	5	--	Details
-The user pins the target with a dark, arresting look. The target becomes unable to flee.
-Heal Pulse	Heal Pulse - Psychic-type	Heal Pulse: Other Move	--	101	10	--	Details
-The user emits a healing pulse that restores the target's HP by up to half of its max HP.
-Torment	Torment - Dark-type	Torment: Other Move	--	100	15	--	Details
-The user torments and enrages the target, making it incapable of using the same move twice in a row.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-
--- Solosis
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30	Details
-The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
-Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--	Details
-The target is exposed to a sinister ray that triggers confusion.
-Acid Armor	Acid Armor - Poison-type	Acid Armor: Other Move	--	101	20	--	Details
-The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
-
--- Karrablast
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Bug Bite	Bug Bite - Bug-type	Bug Bite: Physical Move	60	100	20	--	Details
-The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
-Knock Off	Knock Off - Dark-type	Knock Off: Physical Move	65	100	20	--	Details
-The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
-Slash	Slash - Normal-type	Slash: Physical Move	70	100	20	--	Details
-The target is attacked with a slash of claws or blades. Critical hits land more easily.
-Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--	Details
-The user slashes the target the instant an opportunity arises. Critical hits land more easily.
-
--- Shelmet
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--	Details
-A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
-Guard Split	Guard Split - Psychic-type	Guard Split: Other Move	--	101	10	--	Details
-The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.
-Mind Reader	Mind Reader - Normal-type	Mind Reader: Other Move	--	101	5	--	Details
-The user senses the target's movements with its mind to ensure its next attack does not miss the target.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-
--- Elgyem
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Disable	Disable - Normal-type	Disable: Other Move	--	100	20	--	Details
-For four turns, this move prevents the target from using the move it last used.
-Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30	Details
-The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
-Psych Up	Psych Up - Normal-type	Psych Up: Other Move	--	101	10	--	Details
-The user hypnotizes itself into copying any stat change made by the target.
-Destiny Bond	Destiny Bond - Ghost-type	Destiny Bond: Other Move	--	101	5	--	Details
-After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.
-
--- Cubchoo
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--	Details
-The user slashes the target the instant an opportunity arises. Critical hits land more easily.
-Focus Punch	Focus Punch - Fighting-type	Focus Punch: Physical Move	150	100	20	--	Details
-The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.
-
--- Vullaby
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Mean Look	Mean Look - Normal-type	Mean Look: Other Move	--	101	5	--	Details
-The user pins the target with a dark, arresting look. The target becomes unable to flee.
-Roost	Roost - Flying-type	Roost: Other Move	--	101	10	--	Details
-The user lands and rests its body. This move restores the user's HP by up to half of its max HP.
-Toxic	Toxic - Poison-type	Toxic: Other Move	--	90	10	--	Details
-A move that leaves the target badly poisoned. Its poison damage worsens every turn.
-
--- Skorupi
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Sand Attack	Sand Attack - Ground-type	Sand Attack: Other Move	--	100	15	--	Details
-Sand is hurled in the target's face, reducing the target's accuracy.
-Slash	Slash - Normal-type	Slash: Physical Move	70	100	20	--	Details
-The target is attacked with a slash of claws or blades. Critical hits land more easily.
-Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--	Details
-The target is exposed to a sinister ray that triggers confusion.
-Whirlwind	Whirlwind - Normal-type	Whirlwind: Other Move	--	101	20	--	Details
-The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
-
--- Litwick
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Acid Armor	Acid Armor - Poison-type	Acid Armor: Other Move	--	101	20	--	Details
-The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
-Haze	Haze - Ice-type	Haze: Other Move	--	101	30	--	Details
-The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
-Clear Smog	Clear Smog - Poison-type	Clear Smog: Special Move	50	101	15	--	Details
-The user attacks the target by throwing a clump of special mud. All stat changes are returned to normal.
-Power Split	Power Split - Psychic-type	Power Split: Other Move	--	101	10	--	Details
-The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
-
--- Inkay
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Destiny Bond	Destiny Bond - Ghost-type	Destiny Bond: Other Move	--	101	5	--	Details
-After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.
-Disable	Disable - Normal-type	Disable: Other Move	--	100	20	--	Details
-For four turns, this move prevents the target from using the move it last used.
-Acupressure	Acupressure - Normal-type	Acupressure: Other Move	--	101	30	--	Details
-The user applies pressure to stress points, sharply boosting one of its or its allies' stats.
-
--- Sneasel
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Spite	Spite - Ghost-type	Spite: Other Move	--	100	10	--	Details
-The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.
-Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30	Details
-The target is bitten with viciously sharp fangs. This may also make the target flinch.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-Double Hit	Double Hit - Normal-type	Double Hit: Physical Move	35	90	10	--	Details
-The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.
-Ice Shard	Ice Shard - Ice-type	Ice Shard: Physical Move	40	100	30	--	Details
-The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-Icicle Crash	Icicle Crash - Ice-type	Icicle Crash: Physical Move	85	90	10	30	Details
-The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.
-
--- Sableye
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Recover	Recover - Normal-type	Recover: Other Move	--	101	10	--	Details
-Restoring its own cells, the user restores its own HP by half of its max HP.
-Flatter	Flatter - Dark-type	Flatter: Other Move	--	100	15	--	Details
-Flattery is used to confuse the target. However, this also raises the target's Sp. Atk stat.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--	Details
-This move enables the user to attack first. This move fails if the target is not readying an attack.
-Metal Burst	Metal Burst - Steel-type	Metal Burst: Physical Move	??	100	10	--	Details
-The user retaliates with much greater force against the opponent that last inflicted damage on it.
-Torment	Torment - Dark-type	Torment: Other Move	--	100	15	--	Details
-The user torments and enrages the target, making it incapable of using the same move twice in a row.
-
--- Mawile
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Ancient Power	Ancient Power - Rock-type	Ancient Power: Special Move	60	100	5	10	Details
-The user attacks with a prehistoric power. This may also raise all the user's stats at once.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Slam	Slam - Normal-type	Slam: Physical Move	80	75	20	--	Details
-The target is slammed with a long tail, vines, or the like to inflict damage.
-Seismic Toss	Seismic Toss - Fighting-type	Seismic Toss: Physical Move	??	100	20	--	Details
-The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
-Power-Up Punch	Power-Up Punch - Fighting-type	Power-Up Punch: Physical Move	40	100	20	100	Details
-Striking opponents over and over makes the user's fists harder. Hitting a target raises the Attack stat.
-
--- Maractus
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Worry Seed	Worry Seed - Grass-type	Worry Seed: Other Move	--	100	10	--	Details
-A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.
-Wood Hammer	Wood Hammer - Grass-type	Wood Hammer: Physical Move	120	100	15	--	Details
-The user slams its rugged body into the target to attack. This also damages the user quite a lot.
-
--- Sigilyph
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Psycho Shift	Psycho Shift - Psychic-type	Psycho Shift: Other Move	--	100	10	--	Details
-Using its psychic power of suggestion, the user transfers its status conditions to the target.
-Ancient Power	Ancient Power - Rock-type	Ancient Power: Special Move	60	100	5	10	Details
-The user attacks with a prehistoric power. This may also raise all the user's stats at once.
-Roost	Roost - Flying-type	Roost: Other Move	--	101	10	--	Details
-The user lands and rests its body. This move restores the user's HP by up to half of its max HP.
-
--- Riolu
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Cross Chop	Cross Chop - Fighting-type	Cross Chop: Physical Move	100	80	5	--	Details
-The user delivers a double chop with its forearms crossed. Critical hits land more easily.
-Detect	Detect - Fighting-type	Detect: Other Move	--	101	5	--	Details
-This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.
-Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30	Details
-The target is bitten with viciously sharp fangs. This may also make the target flinch.
-Mind Reader	Mind Reader - Normal-type	Mind Reader: Other Move	--	101	5	--	Details
-The user senses the target's movements with its mind to ensure its next attack does not miss the target.
-High Jump Kick	High Jump Kick - Fighting-type	High Jump Kick: Physical Move	130	90	10	--	Details
-The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.
-Vacuum Wave	Vacuum Wave - Fighting-type	Vacuum Wave: Special Move	40	100	30	--	Details
-The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
-Bullet Punch	Bullet Punch - Steel-type	Bullet Punch: Physical Move	40	100	30	--	Details
-The user strikes the target with tough punches as fast as bullets. This move always goes first.
-Circle Throw	Circle Throw - Fighting-type	Circle Throw: Physical Move	60	90	10	--	Details
-The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
-Howl	Howl - Normal-type	Howl: Other Move	--	101	40	--	Details
-The user howls loudly to raise the spirit of itself and allies. This raises their Attack stats.
-
--- Torkoal
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Fissure	Fissure - Ground-type	Fissure: Physical Move	??	30	5	--	Details
-The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
-Skull Bash	Skull Bash - Normal-type	Skull Bash: Physical Move	130	100	10	100	Details
-The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-Ancient Power	Ancient Power - Rock-type	Ancient Power: Special Move	60	100	5	10	Details
-The user attacks with a prehistoric power. This may also raise all the user's stats at once.
-
--- Mimikyu
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Grudge	Grudge - Ghost-type	Grudge: Other Move	--	101	5	--	Details
-If the user faints, the user's grudge fully depletes the PP of the opponent's move that knocked it out.
-Destiny Bond	Destiny Bond - Ghost-type	Destiny Bond: Other Move	--	101	5	--	Details
-After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-
--- Qwilfish
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-Haze	Haze - Ice-type	Haze: Other Move	--	101	30	--	Details
-The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
-Bubble Beam	Bubble Beam - Water-type	Bubble Beam: Special Move	65	100	20	10	Details
-A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat.
-Supersonic	Supersonic - Normal-type	Supersonic: Other Move	--	55	20	--	Details
-The user generates odd sound waves from its body that confuse the target.
-Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30	Details
-The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
-Aqua Jet	Aqua Jet - Water-type	Aqua Jet: Physical Move	40	100	20	--	Details
-The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
-Water Pulse	Water Pulse - Water-type	Water Pulse: Special Move	60	100	20	20	Details
-The user attacks the target with a pulsing blast of water. This may also confuse the target.
-Acid Spray	Acid Spray - Poison-type	Acid Spray: Special Move	40	100	20	100	Details
-The user spits fluid that works to melt the target. This harshly lowers the target's Sp. Def stat.
-
--- Frillish
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Acid Armor	Acid Armor - Poison-type	Acid Armor: Other Move	--	101	20	--	Details
-The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.
-Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--	Details
-The target is exposed to a sinister ray that triggers confusion.
-Pain Split	Pain Split - Normal-type	Pain Split: Other Move	--	101	20	--	Details
-The user adds its HP to the target's HP, then equally shares the combined HP with the target.
-Mist	Mist - Ice-type	Mist: Other Move	--	101	30	--	Details
-The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
-Bubble Beam	Bubble Beam - Water-type	Bubble Beam: Special Move	65	100	20	10	Details
-A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat.
-Strength Sap	Strength Sap - Grass-type	Strength Sap: Other Move	--	100	10	100	Details
-The user restores its HP by the same amount as the target's Attack stat. It also lowers the target's Attack stat.
-
--- Mareanie
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Stockpile	Stockpile - Normal-type	Stockpile: Other Move	--	101	20	--	Details
-The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.
-Swallow	Swallow - Normal-type	Swallow: Other Move	--	101	10	--	Details
-The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.
-Spit Up	Spit Up - Normal-type	Spit Up: Special Move	??	100	10	--	Details
-The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.
-Haze	Haze - Ice-type	Haze: Other Move	--	101	30	--	Details
-The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
-Infestation	Infestation - Bug-type	Infestation: Special Move	20	100	20	100	Details
-The target is infested and attacked for four to five turns. The target can't flee during this time.
-
--- Hippopotas
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Stockpile	Stockpile - Normal-type	Stockpile: Other Move	--	101	20	--	Details
-The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.
-Swallow	Swallow - Normal-type	Swallow: Other Move	--	101	10	--	Details
-The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.
-Spit Up	Spit Up - Normal-type	Spit Up: Special Move	??	100	10	--	Details
-The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move's power.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Whirlwind	Whirlwind - Normal-type	Whirlwind: Other Move	--	101	20	--	Details
-The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
-
--- Durant
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Struggle Bug	Struggle Bug - Bug-type	Struggle Bug: Special Move	50	100	20	100	Details
-While resisting, the user attacks opposing Pokémon. This lowers the Sp. Atk stats of those hit.
-First Impression	First Impression - Bug-type	First Impression: Physical Move	90	100	10	--	Details
-Although this move has great power, it only works the first turn each time the user enters battle.
-Metal Burst	Metal Burst - Steel-type	Metal Burst: Physical Move	??	100	10	--	Details
-The user retaliates with much greater force against the opponent that last inflicted damage on it.
-Infestation	Infestation - Bug-type	Infestation: Special Move	20	100	20	100	Details
-The target is infested and attacked for four to five turns. The target can't flee during this time.
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-
--- Heatmor
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--	Details
-The user slashes the target the instant an opportunity arises. Critical hits land more easily.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--	Details
-This move enables the user to attack first. This move fails if the target is not readying an attack.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Belch	Belch - Poison-type	Belch: Special Move	120	90	10	--	Details
-The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
-
--- Helioptile
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Glare	Glare - Normal-type	Glare: Other Move	--	100	30	--	Details
-The user intimidates the target with the pattern on its belly to cause paralysis.
-Dragon Rush	Dragon Rush - Dragon-type	Dragon Rush: Physical Move	100	75	10	20	Details
-The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.
-Dragon Tail	Dragon Tail - Dragon-type	Dragon Tail: Physical Move	60	90	10	--	Details
-The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
-
--- Hawlucha
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Entrainment	Entrainment - Normal-type	Entrainment: Other Move	--	100	15	--	Details
-The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.
-Quick Guard	Quick Guard - Fighting-type	Quick Guard: Other Move	--	101	15	--	Details
-The user protects itself and its allies from priority moves.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-Defog	Defog - Flying-type	Defog: Other Move	--	101	15	--	Details
-A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.
-Mean Look	Mean Look - Normal-type	Mean Look: Other Move	--	101	5	--	Details
-The user pins the target with a dark, arresting look. The target becomes unable to flee.
-Cross Chop	Cross Chop - Fighting-type	Cross Chop: Physical Move	100	80	5	--	Details
-The user delivers a double chop with its forearms crossed. Critical hits land more easily.
-
--- Trapinch
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--	Details
-The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
-Gust	Gust - Flying-type	Gust: Special Move	40	100	35	--	Details
-A gust of wind is whipped up by wings and launched at the target to inflict damage.
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-Fury Cutter	Fury Cutter - Bug-type	Fury Cutter: Physical Move	40	95	20	--	Details
-The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.
-Bug Bite	Bug Bite - Bug-type	Bug Bite: Physical Move	60	100	20	--	Details
-The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-First Impression	First Impression - Bug-type	First Impression: Physical Move	90	100	10	--	Details
-Although this move has great power, it only works the first turn each time the user enters battle.
-
--- Axew
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Night Slash	Night Slash - Dark-type	Night Slash: Physical Move	70	100	15	--	Details
-The user slashes the target the instant an opportunity arises. Critical hits land more easily.
-Endeavor	Endeavor - Normal-type	Endeavor: Physical Move	??	100	5	--	Details
-This attack move cuts down the target's HP to equal the user's HP.
-Harden	Harden - Normal-type	Harden: Other Move	--	101	30	--	Details
-The user stiffens all the muscles in its body to raise its Defense stat.
-First Impression	First Impression - Bug-type	First Impression: Physical Move	90	100	10	--	Details
-Although this move has great power, it only works the first turn each time the user enters battle.
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-
--- Yamask
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Memento	Memento - Dark-type	Memento: Other Move	--	100	10	--	Details
-The user faints when using this move. In return, this harshly lowers the target's Attack and Sp. Atk stats.
-
--- Honedge
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Destiny Bond	Destiny Bond - Ghost-type	Destiny Bond: Other Move	--	101	5	--	Details
-After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.
-Wide Guard	Wide Guard - Rock-type	Wide Guard: Other Move	--	101	10	--	Details
-The user and its allies are protected from wide-ranging attacks for one turn.
-Block	Block - Normal-type	Block: Other Move	--	101	5	--	Details
-The user blocks the target's way with arms spread wide to prevent escape.
-
--- Ponyta
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Thrash	Thrash - Normal-type	Thrash: Physical Move	120	100	10	--	Details
-The user rampages and attacks for two to three turns. The user then becomes confused.
-Double Kick	Double Kick - Fighting-type	Double Kick: Physical Move	30	100	30	--	Details
-The target is quickly kicked twice in succession using both feet.
-Hypnosis	Hypnosis - Psychic-type	Hypnosis: Other Move	--	60	20	--	Details
-The user employs hypnotic suggestion to make the target fall into a deep sleep.
-Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--	Details
-A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
-Horn Drill	Horn Drill - Normal-type	Horn Drill: Physical Move	??	30	5	--	Details
-The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.
-Morning Sun	Morning Sun - Normal-type	Morning Sun: Other Move	--	101	5	--	Details
-The user restores its own HP. The amount of HP regained varies with the weather.
-
--- Phantump
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Grudge	Grudge - Ghost-type	Grudge: Other Move	--	101	5	--	Details
-If the user faints, the user's grudge fully depletes the PP of the opponent's move that knocked it out.
-Sucker Punch	Sucker Punch - Dark-type	Sucker Punch: Physical Move	70	100	5	--	Details
-This move enables the user to attack first. This move fails if the target is not readying an attack.
-Disable	Disable - Normal-type	Disable: Other Move	--	100	20	--	Details
-For four turns, this move prevents the target from using the move it last used.
-
--- Morelull
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Poison Powder	Poison Powder - Poison-type	Poison Powder: Other Move	--	75	35	--	Details
-The user scatters a cloud of poisonous dust that poisons the target.
-Stun Spore	Stun Spore - Grass-type	Stun Spore: Other Move	--	75	30	--	Details
-The user scatters a cloud of numbing powder that paralyzes the target.
-Growth	Growth - Normal-type	Growth: Other Move	--	101	20	--	Details
-The user's body grows all at once, raising the Attack and Sp. Atk stats.
-Leech Seed	Leech Seed - Grass-type	Leech Seed: Other Move	--	90	10	--	Details
-A seed is planted on the target. It steals some HP from the target every turn.
-
--- Oranguru
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Extrasensory	Extrasensory - Psychic-type	Extrasensory: Special Move	80	100	20	10	Details
-The user attacks with an odd, unseeable power. This may also make the target flinch.
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Last Resort	Last Resort - Normal-type	Last Resort: Physical Move	140	100	5	--	Details
-This move can be used only after the user has used all the other moves it knows in the battle.
-Dream Eater	Dream Eater - Psychic-type	Dream Eater: Special Move	100	100	15	--	Details
-The user eats the dreams of a sleeping target. The user's HP is restored by half the damage taken by the target.
-
--- Passimian
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Seismic Toss	Seismic Toss - Fighting-type	Seismic Toss: Physical Move	??	100	20	--	Details
-The target is thrown using the power of gravity. It inflicts damage equal to the user's level.
-Vital Throw	Vital Throw - Fighting-type	Vital Throw: Physical Move	70	101	10	--	Details
-The user attacks last. In return, this throw move never misses.
-Quick Guard	Quick Guard - Fighting-type	Quick Guard: Other Move	--	101	15	--	Details
-The user protects itself and its allies from priority moves.
-Quick Attack	Quick Attack - Normal-type	Quick Attack: Physical Move	40	100	30	--	Details
-The user lunges at the target at a speed that makes it almost invisible. This move always goes first.
-Feint	Feint - Normal-type	Feint: Physical Move	30	100	10	--	Details
-This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Knock Off	Knock Off - Dark-type	Knock Off: Physical Move	65	100	20	--	Details
-The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.
-
--- Drampa
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Dragon Rush	Dragon Rush - Dragon-type	Dragon Rush: Physical Move	100	75	10	20	Details
-The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.
-Mist	Mist - Ice-type	Mist: Other Move	--	101	30	--	Details
-The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-
--- Turtonator
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Wide Guard	Wide Guard - Rock-type	Wide Guard: Other Move	--	101	10	--	Details
-The user and its allies are protected from wide-ranging attacks for one turn.
-Head Smash	Head Smash - Rock-type	Head Smash: Physical Move	150	80	5	--	Details
-The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.
-Rapid Spin	Rapid Spin - Normal-type	Rapid Spin: Physical Move	50	100	40	100	Details
-A spin attack that can also eliminate such moves as Bind, Wrap, and Leech Seed. This also raises the user's Speed stat.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-
--- Togedemaru
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Present	Present - Normal-type	Present: Physical Move	??	90	15	--	Details
-The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.
-Wish	Wish - Normal-type	Wish: Other Move	--	101	10	--	Details
-One turn after this move is used, the user's or its replacement's HP is restored by half the user's max HP.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Flail	Flail - Normal-type	Flail: Physical Move	??	100	15	--	Details
-The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.
-Disarming Voice	Disarming Voice - Fairy-type	Disarming Voice: Special Move	40	101	15	--	Details
-Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.
-
--- Mantyke 
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Twister	Twister - Dragon-type	Twister: Special Move	40	100	20	20	Details
-The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch.
-Haze	Haze - Ice-type	Haze: Other Move	--	101	30	--	Details
-The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.
-Slam	Slam - Normal-type	Slam: Physical Move	80	75	20	--	Details
-The target is slammed with a long tail, vines, or the like to inflict damage.
-Mirror Coat	Mirror Coat - Psychic-type	Mirror Coat: Special Move	??	100	20	--	Details
-A retaliation move that counters any special attack, inflicting double the damage taken.
-Splash	Splash - Normal-type	Splash: Other Move	--	101	40	--	Details
-The user just flops and splashes around to no effect at all...
-Tailwind	Tailwind - Flying-type	Tailwind: Other Move	--	101	15	--	Details
-The user whips up a turbulent whirlwind that ups the Speed stats of the user and its allies for four turns.
-Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--	Details
-The target is exposed to a sinister ray that triggers confusion.
-
--- Wailmer
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Double-Edge	Double-Edge - Normal-type	Double-Edge: Physical Move	120	100	15	--	Details
-A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
-Thrash	Thrash - Normal-type	Thrash: Physical Move	120	100	10	--	Details
-The user rampages and attacks for two to three turns. The user then becomes confused.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Fissure	Fissure - Ground-type	Fissure: Physical Move	??	30	5	--	Details
-The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Defense Curl	Defense Curl - Normal-type	Defense Curl: Other Move	--	101	40	--	Details
-The user curls up to conceal weak spots and raise its Defense stat.
-Rollout	Rollout - Rock-type	Rollout: Physical Move	30	90	20	--	Details
-The user continually rolls into the target over five turns. It becomes more powerful each time it hits.
-Aqua Ring	Aqua Ring - Water-type	Aqua Ring: Other Move	--	101	20	--	Details
-The user envelops itself in a veil made of water. It regains some HP every turn.
-Soak	Soak - Water-type	Soak: Other Move	--	100	20	--	Details
-The user shoots a torrent of water at the target and changes the target's type to Water.
-
--- Bergmite
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Mist	Mist - Ice-type	Mist: Other Move	--	101	30	--	Details
-The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.
-Mirror Coat	Mirror Coat - Psychic-type	Mirror Coat: Special Move	??	100	20	--	Details
-A retaliation move that counters any special attack, inflicting double the damage taken.
-Aurora Veil	Aurora Veil - Ice-type	Aurora Veil: Other Move	--	101	20	--	Details
-This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.
-
--- Lapras
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-Horn Drill	Horn Drill - Normal-type	Horn Drill: Physical Move	??	30	5	--	Details
-The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.
-Ancient Power	Ancient Power - Rock-type	Ancient Power: Special Move	60	100	5	10	Details
-The user attacks with a prehistoric power. This may also raise all the user's stats at once.
-Fissure	Fissure - Ground-type	Fissure: Physical Move	??	30	5	--	Details
-The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.
-Freeze-Dry	Freeze-Dry - Ice-type	Freeze-Dry: Special Move	70	100	20	10	Details
-The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.
-Sparkling Aria	Sparkling Aria - Water-type	Sparkling Aria: Special Move	90	100	10	--	Details
-The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be healed by the touch of these bubbles.
-
--- Mr. Mime
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Hypnosis	Hypnosis - Psychic-type	Hypnosis: Other Move	--	60	20	--	Normal
-Details
-The user employs hypnotic suggestion to make the target fall into a deep sleep.
-Fake Out	Fake Out - Normal-type	Fake Out: Physical Move	40	100	10	100	NormalGalarian Form
-Details
-This attack hits first and makes the target flinch. It only works the first turn each time the user enters battle.
-Confuse Ray	Confuse Ray - Ghost-type	Confuse Ray: Other Move	--	100	10	--	NormalGalarian Form
-Details
-The target is exposed to a sinister ray that triggers confusion.
-Power Split	Power Split - Psychic-type	Power Split: Other Move	--	101	10	--	NormalGalarian Form
-Details
-The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.
-Tickle	Tickle - Normal-type	Tickle: Other Move	--	100	20	--	NormalGalarian Form
-Details
-The user tickles the target into laughing, reducing its Attack and Defense stats.
-
--- Darumaka
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Focus Punch	Focus Punch - Fighting-type	Focus Punch: Physical Move	150	100	20	--	NormalGalarian Form
-Details
-The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.
-Hammer Arm	Hammer Arm - Fighting-type	Hammer Arm: Physical Move	100	90	10	100	NormalGalarian Form
-Details
-The user swings and hits with its strong, heavy fist. It lowers the user's Speed, however.
-Take Down	Take Down - Normal-type	Take Down: Physical Move	90	85	20	--	NormalGalarian Form
-Details
-A reckless, full-body charge attack for slamming into the target. This also damages the user a little.
-Flame Wheel	Flame Wheel - Fire-type	Flame Wheel: Physical Move	60	100	25	10	NormalGalarian Form
-Details
-The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.
-Yawn	Yawn - Normal-type	Yawn: Other Move	--	101	10	--	NormalGalarian Form
-Details
-The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.
-Extrasensory	Extrasensory - Psychic-type	Extrasensory: Special Move	80	100	20	10	Normal
-Details
-The user attacks with an odd, unseeable power. This may also make the target flinch.
-
--- Charmander
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Belly Drum	Belly Drum - Normal-type	Belly Drum: Other Move	--	101	10	--	Details
-The user maximizes its Attack stat in exchange for HP equal to half its max HP.
-Ancient Power	Ancient Power - Rock-type	Ancient Power: Special Move	60	100	5	10	Details
-The user attacks with a prehistoric power. This may also raise all the user's stats at once.
-Bite	Bite - Dark-type	Bite: Physical Move	60	100	25	30	Details
-The target is bitten with viciously sharp fangs. This may also make the target flinch.
-Dragon Rush	Dragon Rush - Dragon-type	Dragon Rush: Physical Move	100	75	10	20	Details
-The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.
-Metal Claw	Metal Claw - Steel-type	Metal Claw: Physical Move	50	95	35	10	Details
-The target is raked with steel claws. This may also raise the user's Attack stat.
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Wing Attack	Wing Attack - Flying-type	Wing Attack: Physical Move	60	100	35	--	Details
-The target is struck with large, imposing wings spread wide to inflict damage.
-Dragon Tail	Dragon Tail - Dragon-type	Dragon Tail: Physical Move	60	90	10	--	Details
-The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.
-
--- Larvitar
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Stomp	Stomp - Normal-type	Stomp: Physical Move	65	100	20	30	Details
-The target is stomped with a big foot. This may also make the target flinch.
-Ancient Power	Ancient Power - Rock-type	Ancient Power: Special Move	60	100	5	10	Details
-The user attacks with a prehistoric power. This may also raise all the user's stats at once.
-Curse	Curse - Ghost-type	Curse: Other Move	--	101	10	--	Details
-A move that works differently for the Ghost type than for all other types.
-
--- Deino
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Double Hit	Double Hit - Normal-type	Double Hit: Physical Move	35	90	10	--	Details
-The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.
-Astonish	Astonish - Ghost-type	Astonish: Physical Move	30	100	15	30	Details
-The user attacks the target while shouting in a startling fashion. This may also make the target flinch.
-Head Smash	Head Smash - Rock-type	Head Smash: Physical Move	150	80	5	--	Details
-The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.
-Belch	Belch - Poison-type	Belch: Special Move	120	90	10	--	Details
-The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.
-
--- Goomy
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Life Dew	Life Dew - Water-type	Life Dew: Other Move	--	101	10	--	Details
-The user scatters mysterious water around and restores the HP of itself and its ally Pokémon in the battle.
-
--- Jangmo-o
-
-Egg Moves
-(Details)
-Attack Name	Type	Cat.	Att.	Acc.	PP	Effect %	 
-Counter	Counter - Fighting-type	Counter: Physical Move	??	100	20	--	Details
-A retaliation move that counters any physical attack, inflicting double the damage taken.
-Dragon Breath	Dragon Breath - Dragon-type	Dragon Breath: Special Move	60	100	20	30	Details
-The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.
-Focus Punch	Focus Punch - Fighting-type	Focus Punch: Physical Move	150	100	20	--	Details
-The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.
