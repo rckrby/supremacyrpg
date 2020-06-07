@@ -423,6 +423,7 @@
 696 1008#guardian of alola
 709 8-50|1003#Mind Blown
 709 8-50|1003#Mind Blown
+710 217|1000-3_1#Plasma Fists
 714 203|1000-2_1#Jaw Lock
 715 89|1002#Stuff Cheeks
 716 12|1003#No Retreat
