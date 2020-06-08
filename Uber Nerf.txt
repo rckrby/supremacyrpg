@@ -1,0 +1,85 @@
+Arceus:    0 EVs 0 IVs  No Moves (Vel.Extrema; Danza Espada; Paz Mental; Recuperación; Descanso; Afilagarras; Avivar; Masa Cósmica; Sentencia) 
+
+Blaziken:  No Moves (Danza Espada; Corpulencia; Afilagarras; Maldición)
+           No Megapiedra.
+
+Darkrai:   0 EVs        No Moves (Maquinación; Paz Mental; Brecha Negra; Hipnosis)
+
+Deoxys:    0 EVs 0 IVs  No Moves (Psicoataque; Maquinación; Recuperación; Masa Cósmica; Paz Mental)
+           No Forma Ataque, las otras formas pueden ser accesibles.
+		  
+Dialga:    0 EVs 0 IVs  No Moves (Distorsión; Cometa Draco; Afilagarras; Corpulencia)
+
+Eternatus: 0 EVs 0 IVs  No Moves (Eterna Beam; Dynamax Cannon; Recuperación; Masa Cósmica; Cometa Draco; Danza Dragón; Descanso) 
+
+Genesect:  0 EVs
+
+Gengar:    No Megapiedra.
+
+Giratina:  0 EVs 0 IVs  No Moves (Descanso; Paz Mental)
+
+Groudon:   0 EVs 0 IVs  No Moves (Danza Espada; Corpulencia; Filo del Abismo)
+           No Esfera Roja.
+		   
+Ho-Oh:     0 EVs 0 IVs  No Moves (Descanso; Recuperación; Respiro)
+           No Habilidad Oculta.
+
+Kangaskhan: No Megapiedra.
+
+Kyogre:    0 EVs 0 IVs  No Moves (Paz Mental)
+           No Esfera Azul.
+
+Kyurem-B:  No Moves (Danza Dragón*)
+
+Kyurem-W:  0 EVs 0 IVs  No Moves (Afilagarras; Cometa Draco; Llama Fusión)
+ 
+Landorus:  0 EVs        No Habilidad Oculta.
+
+Lucario:   No Megapiedra.
+
+Lugia:     0 EVs 0 IVs  No Moves (Respiro; Recuperación; Descanso)
+           No Habilidad Oculta.
+
+Lunala:    0 EVs IVs: 0 PS/Atk/SpA  No Moves (Paz Mental; Masa Cósmica; Avivar; Luz Lunar; Rayo Umbrío)
+
+Marshadow: 0 EVs IVs: 0 PS/Atk/Spe  No Moves (Corpulencia; Robasombra)
+
+Melmetal:  0 EVs 0 IVs
+
+Metagross: No Megapiedra.
+
+Mewtwo:    0 EVs 0 IVs  No Moves (Corpulencia; Paz Mental; Recuperación; Onda Mental)
+           No Megapiedra.
+
+Naganadel: 0 EVs        No Moves (Maquinación; Viento Afín)
+
+Necrozma:  Solo Forma Base. No Necrosol, Necroluna ni Ultranecrostal Z. 
+
+Palkia:    0 EVs 0 IVs  No Moves (Corte Vacío; Cometa Draco)
+
+Pheromosa: 0 EVs IVs: 0 Atk/SpA/Spe  No Moves (Danza Aleteo; Ida y Vuelta; Patada S. Alta)
+
+Rayquaza:  0 EVs 0 IVs  No Moves (Danza Dragón; Danza Espada; Corpulencia; Afilagarras; Ascenso Draco; Cometa Draco; V de Fuego)
+
+Reshiram:  0 EVs 0 IVs  No Moves (Cometa Draco; Llama Fusión)
+
+Salamence: No Megapiedra.
+
+Shaymin-S: 0 EVs 0 IVs  No Moves (Tajo Aéreo) 
+
+Solgaleo:  0 EVs IVs: 0 PS/Atk/SpA  No Moves (Meteoimpacto; Paz Mental; Sol Matinal; Masa Cósmica; Avivar)
+
+Xerneas:   0 EVs IVs: 0 PS/Atk/SpA  No Moves (Geocontrol; Paz Mental; Fuerza Lunar)
+
+Yveltal:   0 EVs IVs: 0 PS/Atk/SpA  No Moves (Afilagarras; Ala Mortífera; Pulso Umbrío)
+
+Zacian:    0 EVs 0 IVs  No Moves (Danza Espada; Aullido; Avivar)
+           No Espada Oxidada.
+
+Zamazenta: 0 EVs 0 IVs  No Moves (Aullido; Avivar)
+           No Escudo Oxidado.
+
+Zekrom:    0 EVs 0 IVs  No Moves (Ataque Fulgor; Afilagarras; Danza Dragón*)
+
+Zygarde:   0 Evs        No Moves (Danza Dragón; Enrosque)
+           No Agrupamiento.
