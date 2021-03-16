@@ -1,0 +1,72 @@
+(23:12:13) +ric_kirby: En todas las sedes de la BF son batallas de 3 vs 3
+(23:12:50) +ric_kirby: Sierpe Batalla: los objetos de los 3 Pokémon son aleatorios, y de eligen de entre una lista de objetos competitivos (como Restos, Pañuelo Elegido, Cinturón Negro, etc)
+(23:13:41) +ric_kirby: Cúpula Batalla: 3 vs 3 común y corriente. No recuerdo si había alguna otra restricción (revisaré y les diré cualquier cosa). Pero "creo" que era así
+(23:15:02) +ric_kirby: Fábrica Batalla: Creo que este es el sistema más obvio de todos. Las peleas son con Pokémon aleatorios, del mismo espacio muestral que salen los sets de la tier Battle Factory
+(23:16:57) +ric_kirby: Ah, no les dije
+(23:17:09) +ric_kirby: Cada Frente Batalla tiene un cierto número de peleas a ganar con el Trainer Bot
+(23:18:01) +ric_kirby: Lo que sí podría hacer es que en la cúpula el bot use combate individual
+(23:18:09) +ric_kirby: y en el as, se usen dobles
+(23:19:31) +ric_kirby: Dojo Batalla: la as del frente, Greta, está manejada por el bot. La pelea será "moderada" por un script (que aún debo terminar) que juzgará de una forma similar a como se hacía en Pokémon Esmeralda (esto es, que los Pokémon no puedan ser cambiados hasta que pasen 3 turnos. Y si incumples esa regla, el bot te descalifica)
+(23:21:39) +ric_kirby: Palacio Batalla: 3 vs 3. Todos los movimientos de los Pokémon serán reemplazados por Metrónomo y el objeto será puesto como Baya Zanama
+(23:22:18) +ric_kirby: Pirámide Batalla: ... ufff, este sí que no sé cómo explicarlo
+(23:22:28) +ric_kirby: ¿Han jugado Pokémo Mistery Dungeon?
+(23:22:39) +ric_kirby: ¿Han ido a las Islas Cero?
+(23:23:56) +ric_kirby: En Pokémon Mistery Dungeon Exploradores del Tiempo/Oscuridad/Cielo, hay un lugar llamado "Isla Cero" (no recuerdo cuál de las 4 Islas Cero era) en donde tú y tu equipo volvían a nivel 1, y conforme avanzas en la mazmorra, vas subiendo niveles y consiguiendo objetos
+(23:25:04) +ric_kirby: Más o menos así funciona la Pirámide Batalla. Al entrar, los 3 Pokémon que seleccionas se vuelven a nivel 5, en su etapa preevolucionada y puedes usar /walk para ir subiendo de nivel (y obviamente con esos walkeos te puede ir retando el TrainerBot)
+(23:25:14) +ric_kirby: y también puedes atrapar Pokémon nuevos en el Frente Batalla
+(23:27:03) +ric_kirby: Sí, también te venden objetos
+(23:27:10) +ric_kirby: y tu mochila se reinicia
+(23:27:57) +ric_kirby: Obviamente, todos tus datos como equipo RPG, mochila, dinero y todo eso, se respaldan al entrar a la Pirámide Batalla
+(23:28:11) +ric_kirby: cosa que cuando sales a tomar un descanso o pierdes, recuperas todos tus datos
+(23:30:16) +ric_kirby: (23:27:45) +Alain Volt: A todo esto Kirby, para enfrentar a los ases, cuantas veces hay que derrotar al bot? o por ejemplo en la piramide, debes subir mas de una vez la piramide para poder enfrentar al as? -> Te respondo ahora lo de la pirámide
+(23:30:34) +ric_kirby: La pirámide tiene como 50 pisos
+(23:30:51) +ric_kirby: y cada vez que subes un piso, hay una probabilidad de encontrarte con una "puerta de salida"
+(23:30:58) +ric_kirby: (esa probabilidad es como de 1/8)
+(23:31:25) +ric_kirby: Puedes usar esa puerta para salir y tomarte un descanso. Los datos que tengas del avance en la Pirámide Batalla serán guardados, cosa que puedas retomarlos después
+(23:31:38) +ric_kirby: No es necesario que subas los 50 pisos "de una"
+(23:31:54) +ric_kirby: y cuando lo hagas, te enfrentas a Brandon
+
+Lucy: Alain Volt
+Tucker: Kirito
+Noland: Bairon.
+Greta: RPGBot
+Spenser: Klauis
+Anabel: Gremmy
+Brandon: ric_kirby
+
+~~ Líderes de Battle frontier ~~
+
+(23:42:57) Líder nº 1: Lucy
+(23:42:57) Área: Sierpe Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo de la fortuna
+
+(23:42:57) Líder nº 2: Tucker
+(23:42:57) Área: Cúpula Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo de la táctica
+
+(23:42:57) Líder nº 3: Noland
+(23:42:57) Área: Fábrica Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo del conocimiento
+
+(23:42:57) Líder nº 4: Greta
+(23:42:57) Área: Dojo Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo del coraje
+
+(23:42:57) Líder nº 5: Spencer
+(23:42:57) Área: Palacio Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo del ánimo
+
+(23:42:57) Líder nº 6: Anabel
+(23:42:57) Área: Torre Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo de la destreza
+
+(23:42:57) Líder nº 7: Brandon
+(23:42:57) Área: Pirámide Batalla
+(23:42:57) Nivel: 50
+(23:42:57) Medalla: Símbolo del valor
